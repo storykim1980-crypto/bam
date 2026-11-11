@@ -1179,7 +1179,7 @@ const navItems = (lang) => [
 ];
 
 export function header(lang, path = '/', q = '') {
-  const items = [...CATEGORIES.map(c=>({href:`/${lang}/${c.slug}/`,label:c[lang]})),{href:`/${lang}/area/`,label:L(lang,'エリア','지역 탐색','Areas')},{href:`/${lang}/guide/`,label:L(lang,'訪問ガイド','방문 체크','Visit guide')},{href:`/${lang}/evidence/`,label:L(lang,'出典','출처 노트','Sources')}];
+  const items = [...CATEGORIES.map(c=>({href:`/${lang}/${c.slug}/`,label:c[lang]})),{href:`/${lang}/area/`,label:L(lang,'エリア','지역 탐색','Areas')},{href:`/${lang}/guide/`,label:L(lang,'訪問ガイド','방문 체크','Visit guide')}];
   const active = (href) => (path === href || (href !== `/${lang}/` && path.startsWith(href)) ? ' class="on"' : '');
   return `
 <header class="hd">

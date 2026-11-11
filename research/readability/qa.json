@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "views": 168,
+  "widths": [
+    320,
+    360,
+    390,
+    430,
+    768,
+    1024,
+    1440
+  ],
+  "languages": 3,
+  "homeBodyPx": 16,
+  "formPx": 16,
+  "saveTouchPx": 44,
+  "mobileCards": "single-column",
+  "issues": [],
+  "errors": []
+}
