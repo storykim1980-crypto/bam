@@ -19,6 +19,8 @@ jobs:
         with:
           node-version: '20'
           cache: npm
+      - name: Verify Pages is configured for GitHub Actions
+        uses: actions/configure-pages@v5
       - run: npm ci
       - run: npm run research:validate
       - run: npm run bundle
@@ -26,7 +28,6 @@ jobs:
       - name: Verify publication data and new design
         run: |
           node --input-type=module -e "import fs from 'node:fs';const d=JSON.parse(fs.readFileSync('dist/data/catalog.json'));if(d.total!==JSON.parse(fs.readFileSync('research/venues.json')).length||!fs.existsSync('dist/ko/compare/index.html')||!fs.readFileSync('dist/ko/index.html','utf8').includes('reference-hero.jpg'))process.exit(1)"
-      - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist

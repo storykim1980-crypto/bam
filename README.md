@@ -37,7 +37,7 @@ npm start
 npm run research:validate
 npm run bundle
 npm run build:pages
-# 산출물: dist/, 프로젝트 경로 /bam-night 대응
+# 산출물: dist/, 프로젝트 경로 /bam 대응 · Actions에서는 저장소명 자동 감지
 ```
 
 브라우저 검사:
@@ -55,3 +55,7 @@ npm run qa:design
 수정된 소스와 `.github/workflows/deploy.yml`을 함께 반영해야 합니다. 저장소 Settings → Pages → Source는 **GitHub Actions**로 선택합니다. 새 워크플로는 옛 루트 HTML을 복사하지 않고 매번 소스에서 빌드한 `dist/`만 게시합니다.
 
 이 작업에서는 원격 push나 배포를 실행하지 않았습니다. 상세 절차: `DEPLOY-GITHUB-PAGES.md`.
+
+## 최신 Pages 경로 수정
+
+기본 배포 주소는 https://storykim1980-crypto.github.io/bam/ 입니다. Pages 설정과 실제 deploy 작업이 성공해야 원격404가 해결됩니다. 자세한 내용은 DEPLOY-GITHUB-PAGES.md를 보세요.

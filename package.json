@@ -9,7 +9,7 @@
     "qa:mobile": "node qa/mobile.mjs",
     "qa:shots": "node qa/shoot.mjs",
     "build": "STATIC_BUILD=1 node tools/site-export.mjs",
-    "build:pages": "STATIC_BUILD=1 BASE_PATH=/bam-night SITE_HOST=storykim1980-crypto.github.io node tools/site-export.mjs",
+    "build:pages": "node tools/build-pages.mjs",
     "bundle": "node tools/browser.mjs",
     "research:validate": "node tools/research-pipeline.mjs validate",
     "research:compile": "node tools/research-pipeline.mjs compile",

@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "base": "/bam",
+  "rootIndex": true,
+  "redirect": "/bam/ja/",
+  "localReferences": 10058,
+  "missing": [],
+  "oldBaseReferences": [],
+  "catalog": 22
+}
