@@ -1,0 +1,9 @@
+
+up to date, audited 30 packages in 337ms
+
+1 low severity vulnerability
+
+To address all issues, run:
+  npm audit fix
+
+Run `npm audit` for details.

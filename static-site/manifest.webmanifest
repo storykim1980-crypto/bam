@@ -1,0 +1,18 @@
+{
+  "name": "BAM-NIGHT JAPAN",
+  "short_name": "BAM-NIGHT",
+  "description": "Japan venue guide with public sources and visit conditions.",
+  "start_url": "./ko/",
+  "display": "standalone",
+  "background_color": "#0e0e0d",
+  "theme_color": "#0e0e0d",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

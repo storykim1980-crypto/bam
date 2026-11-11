@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://storykim1980-crypto.github.io/bam-night/sitemap.xml

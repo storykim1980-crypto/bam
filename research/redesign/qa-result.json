@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "pages": 174,
+  "overflow": [],
+  "errors": [],
+  "checks": [
+    "category tabs and expand",
+    "saved venues persistence and remove",
+    "search filtering",
+    "mobile menu and escape",
+    "detail navigation links"
+  ]
+}

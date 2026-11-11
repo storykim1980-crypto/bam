@@ -1,0 +1,34 @@
+{
+  "generatedDate": "2026-11-08",
+  "generationTool": "Arena AI image generation",
+  "usage": "Category-wide mood illustration only; not a photograph or reconstruction of a listed venue.",
+  "sourceImages": [],
+  "thirdPartyVenuePhotosUsed": false,
+  "notLegalClearance": true,
+  "assets": [
+    {
+      "category": "snack",
+      "path": "/images/ai-snack-editorial.jpg",
+      "width": 1376,
+      "height": 768,
+      "people": false,
+      "claimVenueAccuracy": false
+    },
+    {
+      "category": "girlsbar",
+      "path": "/images/ai-girlsbar-editorial.jpg",
+      "width": 1376,
+      "height": 768,
+      "people": false,
+      "claimVenueAccuracy": false
+    },
+    {
+      "category": "massage",
+      "path": "/images/ai-massage-editorial.jpg",
+      "width": 1376,
+      "height": 768,
+      "people": false,
+      "claimVenueAccuracy": false
+    }
+  ]
+}

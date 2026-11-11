@@ -1,0 +1,41 @@
+name: Build and deploy current source to GitHub Pages
+on:
+  push:
+    branches: [main, master]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: true
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+      - run: npm ci
+      - run: npm run research:validate
+      - run: npm run bundle
+      - run: npm run build:pages
+      - name: Verify publication data and new design
+        run: |
+          node --input-type=module -e "import fs from 'node:fs';const d=JSON.parse(fs.readFileSync('dist/data/catalog.json'));if(d.total!==JSON.parse(fs.readFileSync('research/venues.json')).length||!fs.existsSync('dist/ko/compare/index.html')||!fs.readFileSync('dist/ko/index.html','utf8').includes('reference-hero.jpg'))process.exit(1)"
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

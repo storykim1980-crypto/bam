@@ -1,0 +1,51 @@
+[
+  {
+    "name": "hero",
+    "success": true,
+    "source": "https://lh3.googleusercontent.com/aida-public/AB6AXuBlFbJukz0rfEeikW6g2i-ojVbzkw7UZTmYZayNEWPxVAwHx3yUUqU304MaWh7oyHjEceVOuCvzQ2CLJPDoIcvzqVVrGtxLS-kz3X_DmZ-OcpoNQL38ouZ9CRfBvMCu3t36Z00mIj8PHyHoiwvcbCmioLbSWzhQvzSzlU09eJqdoteZWH5TVZwXadkBVuMnuk3aj4HSVv6eSu3vrtEmz8BbLOhPX-BCI-9QLgKUbKDp",
+    "path": "public/images/reference-hero.jpg",
+    "description": "User-supplied design reference imagery; not a venue photograph or operation evidence."
+  },
+  {
+    "name": "snack",
+    "success": true,
+    "source": "https://lh3.googleusercontent.com/aida-public/AB6AXuBFFd2p1m__-aXB4PGMj8HGl6Yb4HtyjVT89ZJnLAeTywjaFM-GbggU-hJhpQw-EXXMoT_gld9hkKP8S0X9PUBdAylCs4ECwiK0IbIWxKS4W1JhzBDdTeayyCFKMP3d-d2KiDEa9XnsFidqbIZyX2fveTioWUSmnqSHZMTv2WRxTBdf1zuqynHhz48TZVwoAZVedfCfatC-kJzOZakuYeug9udVXoyb05mdoxlYI4mS",
+    "path": "public/images/reference-snack.jpg",
+    "description": "User-supplied design reference imagery; not a venue photograph or operation evidence."
+  },
+  {
+    "name": "girlsbar",
+    "success": true,
+    "source": "https://lh3.googleusercontent.com/aida-public/AB6AXuAymtD5PIDEFpfE-LVKnURTOmGX46cDLaVexT0LEcsXO6nFkCLCQi3On79OaRdd3t6h3rX4A95H5Q2N4mn9SDp4dhd3Bdrnb8GrNOf-RrW77v0u_Nb2HjxGalgMW10tO4qVmpOOPZ6tqLgYLDYKKxu8LDxHTh33kRUmamu1MJ-Ma6iMurDgrY1NS8QrMHci4KCWC8YmC9dOz8QBkROehOfOQtTZMoNQyY15BoWi3WFB",
+    "path": "public/images/reference-girlsbar.jpg",
+    "description": "User-supplied design reference imagery; not a venue photograph or operation evidence."
+  },
+  {
+    "name": "massage",
+    "success": true,
+    "source": "https://lh3.googleusercontent.com/aida-public/AB6AXuC0BvdFZvUFmyCJZXEuda4_1HoiNWkRTgnP8ojHAbDzBlDIV4_wzLc76jYv_xITa4cudF5KsM2CS0h7-i1yAHTwDfWd8qLVBK_LYkjklH2Rtr4hB8xWtw4LKT7I0c-Zy9Xk1cCUqt9ZCndkdYJjsGAbI6IcPPZtyVV6Ye-9hLKmn6CHy0fEqd7iKB2xTDebbgfFdUx4MpV5J8mjBerToAlbggt2QdW0O5wbo8lRFLDM",
+    "path": "public/images/reference-massage.jpg",
+    "description": "User-supplied design reference imagery; not a venue photograph or operation evidence."
+  },
+  {
+    "name": "theme-snack",
+    "success": true,
+    "source": "https://lh3.googleusercontent.com/aida-public/AB6AXuCeAfGJDmUYUry1RpHhmHfURlGcOpM0OfCDZZOsT5DwmR-6yjjpTUf52oAyLfMV4Xv5XsPgXBXp2TnSzbBLPs56vZspYajE1V0DO0DS-vtjWW77Ar-Xq2c06JPP8CsC7U_Nc8ppCc7FsdhOzY_75mwykvRtDdTWEaumCO7yAuz6tPKwdY9wTkMXuh3WIKQ6ASXQDRgvlnimmRbv6GIMBd2caN4Qb93H9aE_Eww5vojG",
+    "path": "public/images/reference-theme-snack.jpg",
+    "description": "User-supplied design reference imagery; not a venue photograph or operation evidence."
+  },
+  {
+    "name": "theme-girlsbar",
+    "success": true,
+    "source": "https://lh3.googleusercontent.com/aida-public/AB6AXuCZCRGuxAUvr11q6enqywXDemAI5JcD0ZHUftGlQlf8FXbZgPaJUrWH0mphWzAcxaPXsa3QdPSeap-kOn09p4JK3kJcDQDXVrBMrJA2go84KlWC9EWPxehwLJjpdGYL2175nGrOCZqOFoE2gl0I687G5wGyJ96cJpEw1dOyJmaK8Ekk41nhuXRnida56pWFuWo1DhGlq39WOXOhETaCNi9NsJ4PHnhcoKFRpYw80Fr_",
+    "path": "public/images/reference-theme-girlsbar.jpg",
+    "description": "User-supplied design reference imagery; not a venue photograph or operation evidence."
+  },
+  {
+    "name": "theme-massage",
+    "success": true,
+    "source": "https://lh3.googleusercontent.com/aida-public/AB6AXuCpq3aSUJrMJ5Fqxr6_kar2MBJJnbVrOysy6-Ae7EpbitKE3dffLnbfm_FLrzp8b2OL0bFRQL52G8laIPaRn595TZcYk37deytDHyDGc6J6JcJfi_OmiTbbgp3VOrUvZgBMvUTwU1KC5vVf-4OzceYPPyAImcUgf3N5a1udOzzYuzpi2B5QYX99-E8nSAKu2QrwwWybuAWiUWFjTaOCUmB8_lswhQiyI9sO8hnEUnfK",
+    "path": "public/images/reference-theme-massage.jpg",
+    "description": "User-supplied design reference imagery; not a venue photograph or operation evidence."
+  }
+]

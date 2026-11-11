@@ -1,0 +1,16 @@
+
+> bam-night@26.0.0 research:validate
+> node tools/research-pipeline.mjs validate
+
+{
+  "records": 19,
+  "errors": [],
+  "warnings": [
+    "[4] name: no field-level source; record-level source only",
+    "[4] phone: no field-level source; record-level source only",
+    "[4] hours: no field-level source; record-level source only",
+    "[4] closed: no field-level source; record-level source only",
+    "[4] seats: no field-level source; record-level source only",
+    "[4] payment: no field-level source; record-level source only"
+  ]
+}

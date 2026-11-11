@@ -1,0 +1,31 @@
+{
+  "name": "bam-night",
+  "version": "26.0.0",
+  "description": "BAM-NIGHT JAPAN v8 \u2014 nationwide snack bar / girls bar / wholesome relaxation directory (JA/KO/EN), zero dependencies, real-venue-only registry.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "qa": "node qa/e2e.mjs && node qa/mobile.mjs",
+    "qa:mobile": "node qa/mobile.mjs",
+    "qa:shots": "node qa/shoot.mjs",
+    "build": "STATIC_BUILD=1 node tools/site-export.mjs",
+    "build:pages": "STATIC_BUILD=1 BASE_PATH=/bam-night SITE_HOST=storykim1980-crypto.github.io node tools/site-export.mjs",
+    "bundle": "node tools/browser.mjs",
+    "research:validate": "node tools/research-pipeline.mjs validate",
+    "research:compile": "node tools/research-pipeline.mjs compile",
+    "research:report": "node tools/research-pipeline.mjs report",
+    "research:import": "node tools/research-pipeline.mjs import",
+    "research:links": "node tools/research-pipeline.mjs links",
+    "qa:research": "node qa/research-pipeline.mjs && node qa/research-export.mjs",
+    "prebuild": "node tools/research-pipeline.mjs compile",
+    "prebuild:pages": "node tools/research-pipeline.mjs compile",
+    "research:export": "node tools/research-export.mjs",
+    "qa:design": "node qa/redesign2.mjs"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "devDependencies": {
+    "playwright": "^1.65.0"
+  }
+}

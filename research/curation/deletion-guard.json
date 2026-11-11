@@ -1,0 +1,502 @@
+[
+  {
+    "slug": "shinjuku-snack-sharetable",
+    "category": "snack",
+    "identityHash": "9074d70e69324fcc50fc163ce1228c8ab2827323c428002f45ba6e49d9265abb"
+  },
+  {
+    "slug": "shinjuku-snack-rouge",
+    "category": "snack",
+    "identityHash": "a10e975b6340d03236776d9d61ee575552ffd6381506b9ff7a9c35729ee334d3"
+  },
+  {
+    "slug": "shinjuku-snack-cloud9",
+    "category": "snack",
+    "identityHash": "99dd10eb5e8d72f49c1f63a29abb919969cc9d3566ec3e47da54ada92f0bd0cf"
+  },
+  {
+    "slug": "shinjuku-snack-bellatrixx",
+    "category": "snack",
+    "identityHash": "f1adda0e66461049b0c280dad6bf1de7c2af4062695cee10024d728a3ab385d3"
+  },
+  {
+    "slug": "shinjuku-snack-tobari",
+    "category": "snack",
+    "identityHash": "937fc361bb412ef6b2a3beb8c8b819ab19215d9caaaf612f76e5ed43735b48b1"
+  },
+  {
+    "slug": "shinjuku-massage-rirakuru-west",
+    "category": "massage",
+    "identityHash": "ee3fa828ff568f15b67a8b3460aa911ba033d621cf82acc044afbf3f549d8dcb"
+  },
+  {
+    "slug": "shinjuku-massage-gooit-gyoen",
+    "category": "massage",
+    "identityHash": "a2a97734efe9271125244da09ce49a1b65bd3b1511ba93f87915e303c477e9d9"
+  },
+  {
+    "slug": "shinjuku-massage-yururi",
+    "category": "massage",
+    "identityHash": "29326eddea1473f3ec46d074fe4848d8b16b9ef5739054b3e710c286156329c4"
+  },
+  {
+    "slug": "shinjuku-girlsbar-2c",
+    "category": "girlsbar",
+    "identityHash": "564a63ae072718087a01064871d0678db83c859cc4d25f286f115a136100fa47"
+  },
+  {
+    "slug": "shinjuku-girlsbar-arue",
+    "category": "girlsbar",
+    "identityHash": "c62a49d369e464b9609a4a874bd3c5a3df777268223101bac2bf0a2eaaa597e8"
+  },
+  {
+    "slug": "shinjuku-massage-hogushi-shokunin",
+    "category": "massage",
+    "identityHash": "051fc189d8b43c81b02877dcae1f8582a55a9362401cea55ce5226e8d35d86cb"
+  },
+  {
+    "slug": "shinjuku-snack-akari",
+    "category": "snack",
+    "identityHash": "3ec41f3d9763f5ed88bf1ff1a257647c7896364d0af19897e71e3d797f090f87"
+  },
+  {
+    "slug": "shinjuku-girlsbar-oraf",
+    "category": "girlsbar",
+    "identityHash": "b653811707d14a7e0c646b66dcdc4a716f5cdb09c09ce0990740b5db2e24d632"
+  },
+  {
+    "slug": "nakano-girlsbar-ガールズバー-ラテ",
+    "category": "girlsbar",
+    "identityHash": "8ee3c93f17778519e6c5eed7b087bc78a91bf3cab49bdd70f9e3531af609714c"
+  },
+  {
+    "slug": "nakano-girlsbar-ガールズバー丸の内",
+    "category": "girlsbar",
+    "identityHash": "911f2f54ed4ee1ad80703d0b5304936f331b0929018b09bd3b091e38c194b877"
+  },
+  {
+    "slug": "hongo-massage-東京都立文京盲学校臨床室",
+    "category": "massage",
+    "identityHash": "25298ffcb330cd90737f024c753859226e4cf69704936891709db45371ac954c"
+  },
+  {
+    "slug": "hongo-massage-文京ガーデン-はり灸院",
+    "category": "massage",
+    "identityHash": "828c83088b5e978c1c023cc101a0eded06a0372eef9e48bde8ce3fe4ad546d73"
+  },
+  {
+    "slug": "hongo-massage-指圧",
+    "category": "massage",
+    "identityHash": "b3fe534b64d64c9aee88b7b2c96d9df488b08e86225273887549390dbf8d822f"
+  },
+  {
+    "slug": "hongo-massage-らいと鍼灸マッサージ院",
+    "category": "massage",
+    "identityHash": "32836d1ab5b2c73eee95aecdf9ad0ba24e537108cf8b765f61bb39a15a122c9b"
+  },
+  {
+    "slug": "hongo-massage-浪越指圧治療センター-臨床実習室",
+    "category": "massage",
+    "identityHash": "7cd8581f7b851319e377cbd726c0e641287287918afe9f5a062adf48d046e38a"
+  },
+  {
+    "slug": "hongo-massage-小石川温処-鍼灸マッサージ",
+    "category": "massage",
+    "identityHash": "fdb9c39a1dd32ca33a2eba4acbe608b42fc05083921f4a7f0bc51a3ead4b98ed"
+  },
+  {
+    "slug": "hongo-massage-からだ本舗-後楽園店",
+    "category": "massage",
+    "identityHash": "9d64aeeb80308b90085bad289141bc01513fae6838fae63bd89482c08d09bbc1"
+  },
+  {
+    "slug": "hongo-massage-飯塚はり灸マッサージ",
+    "category": "massage",
+    "identityHash": "b4af3e76e29f29f04365299b09d33a1ccd374a21bfebf34affa2f46aba5da216"
+  },
+  {
+    "slug": "hongo-massage-白山鍼灸マッサージ院",
+    "category": "massage",
+    "identityHash": "d46ef8670cc652bbbea4c5e49f0f32cb8e27dbea3c5de8b3e805f9deff3c9731"
+  },
+  {
+    "slug": "hongo-massage-さち鍼灸院",
+    "category": "massage",
+    "identityHash": "bc7718edf7074db86ee657ffb365029736643636ae36b8d614675e7fb309beb8"
+  },
+  {
+    "slug": "hongo-massage-鍼灸マッサージ院",
+    "category": "massage",
+    "identityHash": "4ea2c3d13cf9ab0a40a857a689f9573462a4201d814fc97c91dc50d601ec6cc8"
+  },
+  {
+    "slug": "hongo-massage-中島白山指圧治療室",
+    "category": "massage",
+    "identityHash": "5ea12a98bc4d25d6cfd551e8d2377eaa29f7bf2515f095568dd14313b0a95734"
+  },
+  {
+    "slug": "hongo-massage-鍼灸マッサージサロン-スバーハー",
+    "category": "massage",
+    "identityHash": "09a571ea7fa399217daefe73279f6c984992fe0942a0f76762ee3c323835e736"
+  },
+  {
+    "slug": "hongo-massage-増治鍼灸院",
+    "category": "massage",
+    "identityHash": "ec61607ba7a05656cafbf69487bfc7067201bf232fb05a36089d5c887bc6dbc0"
+  },
+  {
+    "slug": "hongo-massage-あん摩マッサージ指圧-まち活元治療院",
+    "category": "massage",
+    "identityHash": "389587b2d87684a41f5999904517eada4d55deed8bc3767d0084fc08e9f95297"
+  },
+  {
+    "slug": "hongo-massage-鍼灸マッサージ白山治療院",
+    "category": "massage",
+    "identityHash": "23b11ec885529c9a5a9267b3ef6f351062bddb7bd48befed5bb07a9056bb586d"
+  },
+  {
+    "slug": "hongo-massage-白山はりきゅう院",
+    "category": "massage",
+    "identityHash": "276b7844611859f0d2be319929198a2195ce2f73d2c781311497e1b6d7243fe4"
+  },
+  {
+    "slug": "hongo-massage-指圧はりきゅう堂",
+    "category": "massage",
+    "identityHash": "66ef93b96c7bd1acc794a071622d541ff2a21ca99f244dc4eba7842b87ef238c"
+  },
+  {
+    "slug": "hongo-massage-鍼灸マッサージ治療処靭",
+    "category": "massage",
+    "identityHash": "6d71e05545f667a4238d5fb4f208cfa35211e0821856faaad6bd7316ff9c22d9"
+  },
+  {
+    "slug": "hongo-massage-柚の木治療院",
+    "category": "massage",
+    "identityHash": "60ec65583596f898229531d6fb3463fecfb61d3727691dce27ac4e3ab8ba344c"
+  },
+  {
+    "slug": "hongo-massage-リーベ・鍼灸",
+    "category": "massage",
+    "identityHash": "92d767486989f6989ef96b2f429f15582eab8fcd684e0c89e673e5717680458c"
+  },
+  {
+    "slug": "hongo-massage-シケヤスはりきゅうマッサージ院",
+    "category": "massage",
+    "identityHash": "c99ea744c5d7d5015094ae0d7666477e16c9554bd11a6c64f71b5af57134c2d3"
+  },
+  {
+    "slug": "hongo-massage-はりきゅう",
+    "category": "massage",
+    "identityHash": "e6d4be6cb802125e75d68d5bb695c3942530c1ac6d12826e7685b9e2c9542bf3"
+  },
+  {
+    "slug": "hongo-massage-大地堂鍼灸治療院",
+    "category": "massage",
+    "identityHash": "91c3d12dc0611aee09545ef82ae2e5e5b35d7cb9ef772967322b27e98173ac3a"
+  },
+  {
+    "slug": "hongo-massage-鍼灸マッサージ",
+    "category": "massage",
+    "identityHash": "e721a88d52123da9615d4d23058d70e534e9a2a6811cdd5cd40dfc7e122bd984"
+  },
+  {
+    "slug": "hongo-massage-筑波大学理療科教員養成施設理療臨床部-はり・きゅ",
+    "category": "massage",
+    "identityHash": "4b147bfd19b4520b48520a157c8d83029fbbe1eb59e6f5e58c6c5abcdda899f1"
+  },
+  {
+    "slug": "hongo-massage-小石川指圧治療室",
+    "category": "massage",
+    "identityHash": "e0a5af92273acdd7585b7480b4edaf3c68c7a3615ec09c6b461e59b4cb8cfcf2"
+  },
+  {
+    "slug": "hongo-massage-はり灸治療院平安堂",
+    "category": "massage",
+    "identityHash": "0f1ebbff030c14b282f877cdfafbd3a4d2195f65d6d57e8857660f9537aac4fb"
+  },
+  {
+    "slug": "hongo-massage-大塚鍼灸マッサージ院",
+    "category": "massage",
+    "identityHash": "18e567b5577a7c61cb8c95c4d802237a46934bfb9aa1cd85643c11c2179b1f1f"
+  },
+  {
+    "slug": "hongo-massage-西原指圧",
+    "category": "massage",
+    "identityHash": "19b3e0ddc806b1a37d4d06edc7e663ba184dc9ed32014fdcf35e1d2bc3e48065"
+  },
+  {
+    "slug": "hongo-massage-音羽鍼灸院",
+    "category": "massage",
+    "identityHash": "4a641a8065306b971d09ab1e04a17155ad0fd84a9ca5ed078487dcdc0b26d797"
+  },
+  {
+    "slug": "hongo-massage-筑波大学附属視覚特別支援学校鍼灸手技療法科治療室",
+    "category": "massage",
+    "identityHash": "e0e9562b9b9b9caf03daa42cee115f843392a69a8184e73f955e6c2023f5fb0e"
+  },
+  {
+    "slug": "hongo-massage-音羽ハリ灸指圧治療院",
+    "category": "massage",
+    "identityHash": "9a4109d3f945aa442c8ca2f848b3c0007e2dfd4543d024eb77a1bd4cd7d7fade"
+  },
+  {
+    "slug": "hongo-massage-ユリア鍼灸マッサージ院",
+    "category": "massage",
+    "identityHash": "deec6b7de7abfcf982a7fea6674dc53e4bcd7fb85f6c2a4a7ee44f8a7e7482f6"
+  },
+  {
+    "slug": "hongo-massage-鍼灸マッサージ星空散歩治療院",
+    "category": "massage",
+    "identityHash": "42722855e6e437d7869f5c18646814f34beb2c6b324eb29e173e88381aa21ab6"
+  },
+  {
+    "slug": "hongo-massage-本郷壱岐坂鍼灸院",
+    "category": "massage",
+    "identityHash": "134d14139fc25bf44347bc71a545d3c32a639625281f1b8c1a65a073d0da4320"
+  },
+  {
+    "slug": "hongo-massage-鍼灸治療院",
+    "category": "massage",
+    "identityHash": "519c4a792125baf81046f71a662d4b2f2d3451997b64da9028b6a089abad0e3f"
+  },
+  {
+    "slug": "hongo-massage-あん摩治療院ユタカ",
+    "category": "massage",
+    "identityHash": "2647484d03f086954cccabe705c66611338e00faa244852cb5ab5489fa4b1b35"
+  },
+  {
+    "slug": "hongo-massage-ソフィアはりきゅうマッサージ治療院",
+    "category": "massage",
+    "identityHash": "411e93d7b33d0779f8c3f552e0b72f97c61fee3b2780bbb30d0064ffd166a2f9"
+  },
+  {
+    "slug": "hongo-massage-本郷三丁目駅前鍼灸院",
+    "category": "massage",
+    "identityHash": "2013a46097fa415c73c35a0aba4f5d04189b81b5852542e2ea16c6e0fd657d38"
+  },
+  {
+    "slug": "hongo-massage-真救堂はり・灸",
+    "category": "massage",
+    "identityHash": "b4f1ecb17667d4b89a7229054598025b09c50224413c9ffcef1b28595d082bd2"
+  },
+  {
+    "slug": "hongo-massage-鍼灸あん摩マッサージ指圧-本郷まこと治療院",
+    "category": "massage",
+    "identityHash": "d6bdb4320ac20706e29caf068ca283793e32521b1d9e0a7d1d64c4dd45616a8b"
+  },
+  {
+    "slug": "hongo-massage-グラウベ鍼灸院",
+    "category": "massage",
+    "identityHash": "f71a534abb25a353aae602fe38fe515a7536996cdcfdeab05248d4750a6be019"
+  },
+  {
+    "slug": "hongo-massage-春日鍼灸マッサージ院",
+    "category": "massage",
+    "identityHash": "9f5a2c69ac54ff3a5224b678c601dd9821fc43f3a7c1bd4cf7448d2ca28c033c"
+  },
+  {
+    "slug": "hongo-massage-本郷スポーツマッサージ治療院",
+    "category": "massage",
+    "identityHash": "be0b53ab40095f04a64dd9dd42232c5ed9b783f7904fb0cf73dc270dab5f88b2"
+  },
+  {
+    "slug": "hongo-massage-導龍鍼灸治療院",
+    "category": "massage",
+    "identityHash": "d12dd11da567e24cfc3f559c0af2fddef3f0d6149843f36cba4375ea4b3e45de"
+  },
+  {
+    "slug": "hongo-massage-はちまん鍼灸院",
+    "category": "massage",
+    "identityHash": "9d429973af07bbbcc82e6c85408c9050a1b227907e8187923d78f3b9c7cae169"
+  },
+  {
+    "slug": "hongo-massage-小橋指圧治療所",
+    "category": "massage",
+    "identityHash": "d06d20075025538017c05f699ccfc10786e9286d76e76729b022a04a8eb578bb"
+  },
+  {
+    "slug": "hongo-massage-ウェルネス湯島鍼灸マッサージ治療室",
+    "category": "massage",
+    "identityHash": "029d80ffa21cfa440c45aa84cf1fb4c24402e7f76f4b29bf95b9a2a0193b959e"
+  },
+  {
+    "slug": "hongo-massage-湯島指圧治療室",
+    "category": "massage",
+    "identityHash": "4d361fc001a8ee0cfa134588968a0fe434f28f7b45bd81b73ed73eb69b9947e3"
+  },
+  {
+    "slug": "hongo-massage-湯島白梅鍼灸院",
+    "category": "massage",
+    "identityHash": "8c8563442f40d519700d0b7b5bc05f4ac9fbdf0ac51b1081e3b55bbf5386659f"
+  },
+  {
+    "slug": "hongo-massage-整骨・指圧竹森治療室",
+    "category": "massage",
+    "identityHash": "4c91f2cc3febaef34dd9c372339fd6a3fd72ee2ac8ee4fafd11fc029f603afa4"
+  },
+  {
+    "slug": "hongo-massage-もみの手指圧・はり・美容メディカルフロア",
+    "category": "massage",
+    "identityHash": "62bd24af5f28b15fa54a7a123e3266597cad40e43752afc8be4da75a3f1b1e87"
+  },
+  {
+    "slug": "hongo-massage-指圧ルーム-うたたね",
+    "category": "massage",
+    "identityHash": "72a799ea7c392e4b4653379c7ed3adb42cfbc20ba3e513e8885a7f2e13817193"
+  },
+  {
+    "slug": "hongo-massage-鍼灸三幸堂治療院",
+    "category": "massage",
+    "identityHash": "6d091480874de5817f87708b263464a69ad08504ea8bad96b84b243bc029e90b"
+  },
+  {
+    "slug": "hongo-massage-白山指圧-和み",
+    "category": "massage",
+    "identityHash": "407ad2d28f2f8fd8de9b91feedd83530e57d8c982092061a50acd4ab4868e9cd"
+  },
+  {
+    "slug": "hongo-massage-中原鍼灸院",
+    "category": "massage",
+    "identityHash": "f895d9727e17feaef1e2718cb931d36536516f21a3ccf38f5eaaf432220365bd"
+  },
+  {
+    "slug": "hongo-massage-医大通り東洋鍼灸院",
+    "category": "massage",
+    "identityHash": "1d1bb58de2787ceb53ac2556fcf87208bee5bfdd319beb1e423f2f5d5fc83744"
+  },
+  {
+    "slug": "hongo-massage-龍眼堂鍼灸治療院",
+    "category": "massage",
+    "identityHash": "cc1ad1270dc4699b93b3ea05c3802b32b675ff4f7237b1c972f7043eaf053732"
+  },
+  {
+    "slug": "hongo-massage-白山指圧院",
+    "category": "massage",
+    "identityHash": "1aaf823d7b45430ecf6a35cdd0cd9ba874705c8665683349bd72a5f60f33177d"
+  },
+  {
+    "slug": "hongo-massage-鍼灸マッサージ指圧伊藤治療院",
+    "category": "massage",
+    "identityHash": "aa465fc4e42f8645f0b82c0a67a31ad346b11d94bf9062a5a95946a8d7a082e3"
+  },
+  {
+    "slug": "hongo-massage-リハリーサポート鍼灸マッサージ",
+    "category": "massage",
+    "identityHash": "22a336105bd49653e3381fa71b3327d04da59396917e8c26aa495a9adfbc5507"
+  },
+  {
+    "slug": "hongo-massage-千駄木団子坂元氣計画治療院マッサージはりきゅう",
+    "category": "massage",
+    "identityHash": "d64671d2088fd80e5bd222206f41d51d017399575130324d3ec646be3a58eb16"
+  },
+  {
+    "slug": "hongo-massage-動坂指圧-和み",
+    "category": "massage",
+    "identityHash": "793dfd8ed3b593581a5cb6192629e5f32c3f0932fd86e0dc42aea271c14036f8"
+  },
+  {
+    "slug": "hongo-massage-指圧治療院れんげ",
+    "category": "massage",
+    "identityHash": "2fc3327503c9d0deb1bfc212bd0e031ed735a6ca2e9840538ca4a75a24ad966f"
+  },
+  {
+    "slug": "hongo-massage-汐見鍼灸マッサージ院",
+    "category": "massage",
+    "identityHash": "d2b8bce9f6698f462c2e55c684acdd50e411ba14d82148bb37d40cec6188183d"
+  },
+  {
+    "slug": "hongo-massage-本駒込鍼灸マッサージ院",
+    "category": "massage",
+    "identityHash": "2ba46c893bbba7295f38dd85bf6170acc2c6d461b4fe0ae60e6ceda49cc88b40"
+  },
+  {
+    "slug": "hongo-massage-駒込曙町針灸治療院",
+    "category": "massage",
+    "identityHash": "1e9699f314140ba80c4f459e4d3316140baf59ef30fa077386522647ca5d3c16"
+  },
+  {
+    "slug": "hongo-massage-久芳堂",
+    "category": "massage",
+    "identityHash": "5442525ea21b3ba66c0c999041e808465e8abee69240841741700fc10d13816c"
+  },
+  {
+    "slug": "hongo-massage-鍼灸あん摩院やじろべえ",
+    "category": "massage",
+    "identityHash": "03e724289ad0584320c008f1da27e5eb7ea8a9c4de681ae23cd5f3624f42aeb6"
+  },
+  {
+    "slug": "hongo-massage-千石鍼灸院",
+    "category": "massage",
+    "identityHash": "4feff2240a7d3d595d29eb33a746428cece580db9cf5191fa5ea19d76686352f"
+  },
+  {
+    "slug": "hongo-massage-ふれあいマッサージ院",
+    "category": "massage",
+    "identityHash": "df60fa09c8c75f58ca59457efe7206b2f9128eb6a394a0bc537435b5b84533fa"
+  },
+  {
+    "slug": "hongo-massage-ふよう",
+    "category": "massage",
+    "identityHash": "dc4f9884fb6ce0e93ded8218c4aefaca3f9a5f2884e21c4198c81743023e3d34"
+  },
+  {
+    "slug": "hongo-massage-指圧一休",
+    "category": "massage",
+    "identityHash": "ef9123e75f8cf2fb4c8906a5f8b725928b9db984cc57fe23d48b0e18916fd824"
+  },
+  {
+    "slug": "hongo-massage-岡田指圧治療院",
+    "category": "massage",
+    "identityHash": "5a07a9636d9545cd6f3dfe428ad2ffc03c949124fd68ef1897f6272bad0bc523"
+  },
+  {
+    "slug": "hongo-massage-動坂らく-だ鍼灸マッサージ院",
+    "category": "massage",
+    "identityHash": "1c054fdd3135c22a0f6fb24562c5f03b1860b56dcc6626f9af6617493c710862"
+  },
+  {
+    "slug": "hongo-massage-菊川治療院",
+    "category": "massage",
+    "identityHash": "2305aeef38b7576efa4a5e8e9eb434af5a80b9e728008100dfd3e14a205837d5"
+  },
+  {
+    "slug": "hongo-massage-からだ本舗千石店",
+    "category": "massage",
+    "identityHash": "1bb3dc2d19285bda0449386c4aead652d569f26fc43970999474e1a4ba084dc3"
+  },
+  {
+    "slug": "hongo-massage-髙島指圧治療院",
+    "category": "massage",
+    "identityHash": "927075906fd0058d69a70f6b76223d8812184f815decfb5b2f99c33113d64f85"
+  },
+  {
+    "slug": "hongo-massage-及川鍼灸院",
+    "category": "massage",
+    "identityHash": "cf36ccb96c9c1230bfa73bdf42a0a4964940b5693c098d68b517ee73ee45e742"
+  },
+  {
+    "slug": "shinjuku-kabukicho-girlsbar-ガールズバー名無し",
+    "category": "girlsbar",
+    "identityHash": "cf609a58ecb726d414d6bcbec12c5d0654807abdd7dc2ec6ce93189c90a41f4d"
+  },
+  {
+    "slug": "shinjuku-kabukicho-girlsbar-girls-bar-happy",
+    "category": "girlsbar",
+    "identityHash": "f1e3c1c05e9e72b8b5145792e54f565be77d12947b76e5659205494c3eb6242b"
+  },
+  {
+    "slug": "shinjuku-kabukicho-girlsbar-girls-bar-one",
+    "category": "girlsbar",
+    "identityHash": "837b309599f79645a16d2e97eb1deda88f7964959d251f31453714d63842cce5"
+  },
+  {
+    "slug": "shinjuku-kabukicho-girlsbar-ガールズバー-ポッキー",
+    "category": "girlsbar",
+    "identityHash": "21b1fd61588b7720e4747a504a16dbf186614be0f428aa0c52fc3f239055eca9"
+  },
+  {
+    "slug": "shinjuku-kabukicho-girlsbar-ガールズバー-ネオ-新宿店",
+    "category": "girlsbar",
+    "identityHash": "f21532a86ddef8a6524dffcd9756a8f9803a8ba899b74e79259b67510ecc1d11"
+  }
+]

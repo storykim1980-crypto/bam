@@ -1,0 +1,20 @@
+
+> bam-night@26.0.0 prebuild:pages
+> node tools/research-pipeline.mjs compile
+
+Compiled 19 source-reviewed profiles.
+
+> bam-night@26.0.0 build:pages
+> STATIC_BUILD=1 BASE_PATH=/bam-night SITE_HOST=storykim1980-crypto.github.io node build/static.mjs
+
+  ja: 211 routes
+  ko: 211 routes
+  en: 211 routes
+
+✅ static export → dist/
+   pages   : 634 (+404)
+   assets  : 17
+   size    : 25.7 MB
+   base    : /bam-night
+   failures: 0
+   time    : 0.3s

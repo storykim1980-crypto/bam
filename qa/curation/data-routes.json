@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "publicCount": 12,
+  "categoryCounts": {
+    "snack": 5,
+    "girlsbar": 4,
+    "massage": 3
+  },
+  "previous10Unchanged": true,
+  "deletedRoutes404": 300,
+  "deletedStaticRoutesAbsent": 300
+}

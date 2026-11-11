@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "previous12Unchanged": true,
+  "total": 16,
+  "categories": {
+    "snack": 6,
+    "girlsbar": 5,
+    "massage": 5
+  },
+  "homepageChecks": 24,
+  "deletedRoutesStill404": 300
+}

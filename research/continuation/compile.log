@@ -1,0 +1,5 @@
+
+> bam-night@26.0.0 research:compile
+> node tools/research-pipeline.mjs compile
+
+Compiled 25 source-reviewed profiles.

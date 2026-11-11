@@ -1,0 +1,23 @@
+
+> bam-night@17.0.0 bundle
+> esbuild build/browser.mjs --bundle --format=iife --minify --target=es2019 --outfile=public/static-api.js
+
+
+  public/static-api.js  19.9kb
+
+⚡ Done in 4ms
+
+> bam-night@17.0.0 build:pages
+> STATIC_BUILD=1 BASE_PATH=/bam-night SITE_HOST=storykim1980-crypto.github.io node build/static.mjs
+
+  ja: 2069 routes
+  ko: 2069 routes
+  en: 2069 routes
+
+✅ static export → dist/
+   pages   : 6208 (+404)
+   assets  : 13
+   size    : 343.7 MB
+   base    : /bam-night
+   failures: 0
+   time    : 4.0s

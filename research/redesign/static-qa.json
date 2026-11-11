@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "checks": 80,
+  "errors": [],
+  "failed": [],
+  "coverage": [
+    "static subpath /bam-night",
+    "image assets",
+    "saved venue subpath",
+    "district-only search",
+    "category filter",
+    "query filter",
+    "empty state",
+    "320px mobile",
+    "homepage links"
+  ]
+}

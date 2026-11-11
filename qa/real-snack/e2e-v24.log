@@ -1,0 +1,7 @@
+
+================ QA RESULT ================
+ISSUES: 0
+
+NOTES: 2
+ · shop detail: no rights-cleared photo; gallery intentionally absent
+ · /ja/ load event: 93ms

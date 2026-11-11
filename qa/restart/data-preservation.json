@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "total": 112,
+  "unchangedEntireShopRecords": 109,
+  "feeCorrectionsOnly": [
+    "shinjuku-snack-powan",
+    "shinjuku-snack-meteo",
+    "shinjuku-snack-imari"
+  ],
+  "allOriginalRecordDatesRetained": true
+}

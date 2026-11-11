@@ -1,0 +1,3 @@
+import {SHOPS} from './shops.mjs';
+import {SOURCE_REVIEWS} from './source-reviews.mjs';
+export const CATALOG=SHOPS.map(s=>({slug:s.slug,cat:s.cat,name:{ja:s.nameJa,ko:s.nameKo,en:s.nameEn},district:{ja:s.districtJa,ko:s.districtKo,en:s.districtEn},districtSlug:s.districtSlug,prefSlug:s.prefSlug,address:s.researchProfile?.address||s.addressJa,phone:s.researchProfile?.phone||null,hours:s.researchProfile?.hours||null,closed:s.researchProfile?.closed||null,fees:s.researchProfile?.fees||null,sourceUrl:s.researchProfile?.sourceUrl||null,mapUrl:s.researchProfile?.mapUrl||null,review:SOURCE_REVIEWS[s.slug]||null}));

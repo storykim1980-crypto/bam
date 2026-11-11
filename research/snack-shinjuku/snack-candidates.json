@@ -1,0 +1,665 @@
+[
+  {
+    "id": "researched-snack-powan",
+    "slug": "shinjuku-snack-powan",
+    "cat": "snack",
+    "name": {
+      "ja": "すなっくPOWAN",
+      "ko": "스낙크 POWAN",
+      "en": "Snack POWAN"
+    },
+    "address": "東京都新宿区新宿５丁目18-11谷川ビル502",
+    "phone": "080-8887-6048",
+    "mapUrl": "https://maps.app.goo.gl/oC5jZpS511kerFbs8",
+    "socialUrl": "https://www.instagram.com/hina.powan/",
+    "hours": {
+      "ja": "月〜土20:00〜翌03:00／日20:00〜24:00",
+      "ko": "월~토 20:00~익일03:00 / 일 20:00~24:00",
+      "en": "Mon–Sat 20:00–03:00 next day; Sun 20:00–24:00"
+    },
+    "closed": {
+      "ja": "定休なしと掲載",
+      "ko": "정기휴일 없음으로 기재",
+      "en": "No regular holiday listed"
+    },
+    "seats": {
+      "ja": "カウンター6席＋ボックス5席",
+      "ko": "카운터6석·박스5석",
+      "en": "6 counter + 5 box seats"
+    },
+    "fees": {
+      "ja": "ボトル制セット¥4,000（時間制限なし）、ボトル¥4,000〜。単品制チャージ¥1,000、ドリンク¥800〜。TAX10%と掲載。",
+      "ko": "보틀제 세트 ¥4,000(시간 제한 없음), 보틀 ¥4,000부터. 단품제 차지 ¥1,000, 드링크 ¥800부터. TAX10% 기재.",
+      "en": "Bottle-plan set ¥4,000 with no time limit; bottles from ¥4,000. By-drink charge ¥1,000, drinks from ¥800. Source lists TAX10%."
+    },
+    "payment": "クレジットカード\n₍Visa/Mastercard/JCB/American Express/Diners Club/Discover/UnionPay₎\nQUICPay/iD\nQR決済\n₍d払い/PayPay/au PAY/楽天ペイ₎",
+    "sourceUrl": "https://www.snack-map.com/snack/shinjuku-powan",
+    "checkedAt": "2026-11-08",
+    "sourceType": "third_party_directory",
+    "ownerConfirmed": false,
+    "photoPermission": "not_obtained",
+    "images": [],
+    "districtSlug": "shinjuku-sanchome",
+    "fieldSources": {
+      "name": [
+        "https://www.snack-map.com/snack/shinjuku-powan"
+      ],
+      "address": [
+        "https://www.snack-map.com/snack/shinjuku-powan"
+      ],
+      "phone": [
+        "https://www.snack-map.com/snack/shinjuku-powan"
+      ],
+      "hours": [
+        "https://www.snack-map.com/snack/shinjuku-powan"
+      ],
+      "closed": [
+        "https://www.snack-map.com/snack/shinjuku-powan"
+      ],
+      "seats": [
+        "https://www.snack-map.com/snack/shinjuku-powan"
+      ],
+      "fees": [
+        "https://www.snack-map.com/snack/shinjuku-powan"
+      ],
+      "payment": [
+        "https://www.snack-map.com/snack/shinjuku-powan"
+      ]
+    }
+  },
+  {
+    "id": "researched-snack-aiai",
+    "slug": "shinjuku-snack-aiai",
+    "cat": "snack",
+    "name": {
+      "ja": "スナック藍々",
+      "ko": "스낙크 아이아이",
+      "en": "Snack Aiai"
+    },
+    "address": "東京都新宿区歌舞伎町2-45-17 ジェスト33ビル205",
+    "phone": null,
+    "mapUrl": "https://maps.app.goo.gl/T7uxtrNxTPhmrvbz8",
+    "socialUrl": "https://www.instagram.com/shinjukuaiai/",
+    "hours": {
+      "ja": "スナック19:00〜24:00／BAR24:00〜翌05:00",
+      "ko": "스낙크19:00~24:00 / 바24:00~익일05:00",
+      "en": "Snack 19:00–24:00; bar 00:00–05:00"
+    },
+    "closed": {
+      "ja": "不定休。SNSで確認",
+      "ko": "비정기 휴무·SNS 확인",
+      "en": "Irregular holidays; check SNS"
+    },
+    "seats": {
+      "ja": "カウンター3席＋ボックス8席",
+      "ko": "카운터3석·박스8석",
+      "en": "3 counter + 8 box seats"
+    },
+    "fees": {
+      "ja": "飲み放題60分¥3,000、1時間ごと自動延長と掲載。ボトル制セット1時間¥1,500＋ボトル¥4,500〜。税・追加料金は店舗へ確認。",
+      "ko": "60분 음료 무제한 ¥3,000·1시간마다 자동연장 기재. 보틀제 1시간 세트 ¥1,500+보틀 ¥4,500부터. 세금·추가요금은 매장 확인.",
+      "en": "60-minute drinks plan ¥3,000, with automatic hourly extensions listed. Bottle-plan hourly set ¥1,500 plus bottles from ¥4,500. Confirm taxes and extras."
+    },
+    "payment": "現金\nクレジットカード",
+    "sourceUrl": "https://www.snack-map.com/snack/shinjuku-aiai",
+    "checkedAt": "2026-11-08",
+    "sourceType": "third_party_directory",
+    "ownerConfirmed": false,
+    "photoPermission": "not_obtained",
+    "images": [],
+    "districtSlug": "shinjuku-kabukicho",
+    "fieldSources": {
+      "name": [
+        "https://www.snack-map.com/snack/shinjuku-aiai"
+      ],
+      "address": [
+        "https://www.snack-map.com/snack/shinjuku-aiai"
+      ],
+      "phone": [
+        "https://www.snack-map.com/snack/shinjuku-aiai"
+      ],
+      "hours": [
+        "https://www.snack-map.com/snack/shinjuku-aiai"
+      ],
+      "closed": [
+        "https://www.snack-map.com/snack/shinjuku-aiai"
+      ],
+      "seats": [
+        "https://www.snack-map.com/snack/shinjuku-aiai"
+      ],
+      "fees": [
+        "https://www.snack-map.com/snack/shinjuku-aiai"
+      ],
+      "payment": [
+        "https://www.snack-map.com/snack/shinjuku-aiai"
+      ]
+    }
+  },
+  {
+    "id": "researched-snack-sharetable",
+    "slug": "shinjuku-snack-sharetable",
+    "cat": "snack",
+    "name": {
+      "ja": "SHARE TABLE",
+      "ko": "셰어 테이블",
+      "en": "SHARE TABLE"
+    },
+    "address": "東京都新宿区歌舞伎町2-22-13 ADビル6階",
+    "phone": "07012724663",
+    "mapUrl": "https://maps.app.goo.gl/vvWyZ9xbWgrwPtoa8",
+    "socialUrl": "https://www.instagram.com/chel_share_t/",
+    "hours": {
+      "ja": "20:00〜翌01:00",
+      "ko": "20:00~익일01:00",
+      "en": "20:00–01:00 next day"
+    },
+    "closed": {
+      "ja": "日・月曜",
+      "ko": "일·월요일",
+      "en": "Sunday and Monday"
+    },
+    "seats": {
+      "ja": "カウンター4席＋BOX6席",
+      "ko": "카운터4석·박스6석",
+      "en": "4 counter + 6 box seats"
+    },
+    "fees": {
+      "ja": "120分セット男性¥5,000／女性¥3,000、延長60分¥2,000。追加注文・延長時TAX20%との記載があり、適用範囲は要確認。",
+      "ko": "120분 세트 남성 ¥5,000/여성 ¥3,000, 연장60분 ¥2,000. 추가주문·연장 시 TAX20% 기재·적용 범위 확인 필요.",
+      "en": "120-minute set: men ¥5,000 / women ¥3,000; 60-minute extension ¥2,000. Source lists TAX20% for extras/extensions; confirm its scope."
+    },
+    "payment": "現金\nクレジットカード",
+    "sourceUrl": "https://www.snack-map.com/snack/shinjuku-sharetable",
+    "checkedAt": "2026-11-08",
+    "sourceType": "third_party_directory",
+    "ownerConfirmed": false,
+    "photoPermission": "not_obtained",
+    "images": [],
+    "districtSlug": "shinjuku-kabukicho",
+    "fieldSources": {
+      "name": [
+        "https://www.snack-map.com/snack/shinjuku-sharetable"
+      ],
+      "address": [
+        "https://www.snack-map.com/snack/shinjuku-sharetable"
+      ],
+      "phone": [
+        "https://www.snack-map.com/snack/shinjuku-sharetable"
+      ],
+      "hours": [
+        "https://www.snack-map.com/snack/shinjuku-sharetable"
+      ],
+      "closed": [
+        "https://www.snack-map.com/snack/shinjuku-sharetable"
+      ],
+      "seats": [
+        "https://www.snack-map.com/snack/shinjuku-sharetable"
+      ],
+      "fees": [
+        "https://www.snack-map.com/snack/shinjuku-sharetable"
+      ],
+      "payment": [
+        "https://www.snack-map.com/snack/shinjuku-sharetable"
+      ]
+    }
+  },
+  {
+    "id": "researched-snack-meteo",
+    "slug": "shinjuku-snack-meteo",
+    "cat": "snack",
+    "name": {
+      "ja": "Bar lounge Météo",
+      "ko": "바 라운지 메테오",
+      "en": "Bar lounge Météo"
+    },
+    "address": "東京都新宿区歌舞伎町2-14-8メトロプラザⅡ4F",
+    "phone": "03-6457-3773",
+    "mapUrl": "https://maps.app.goo.gl/FR6qkExQvdUoqJNr8",
+    "socialUrl": "https://www.instagram.com/barlounge_meteo/",
+    "hours": {
+      "ja": "21:00〜翌05:00",
+      "ko": "21:00~익일05:00",
+      "en": "21:00–05:00 next day"
+    },
+    "closed": {
+      "ja": "日曜",
+      "ko": "일요일",
+      "en": "Sunday"
+    },
+    "seats": {
+      "ja": "カウンター8席＋ボックス6席",
+      "ko": "카운터8석·박스6석",
+      "en": "8 counter + 6 box seats"
+    },
+    "fees": {
+      "ja": "飲み放題90分男性¥5,000／女性¥3,000。延長30分男性¥2,000／女性¥1,000、キャストドリンク¥1,000、TAX20%と掲載。",
+      "ko": "90분 음료 무제한 남성 ¥5,000/여성 ¥3,000. 연장30분 남성 ¥2,000/여성 ¥1,000, 캐스트드링크 ¥1,000·TAX20% 기재.",
+      "en": "90-minute drinks plan: men ¥5,000 / women ¥3,000. 30-minute extensions ¥2,000 / ¥1,000; cast drinks ¥1,000; source lists TAX20%."
+    },
+    "payment": "現金\nクレジットカード",
+    "sourceUrl": "https://www.snack-map.com/snack/shinjuku-meteo",
+    "checkedAt": "2026-11-08",
+    "sourceType": "third_party_directory",
+    "ownerConfirmed": false,
+    "photoPermission": "not_obtained",
+    "images": [],
+    "districtSlug": "shinjuku-kabukicho",
+    "fieldSources": {
+      "name": [
+        "https://www.snack-map.com/snack/shinjuku-meteo"
+      ],
+      "address": [
+        "https://www.snack-map.com/snack/shinjuku-meteo"
+      ],
+      "phone": [
+        "https://www.snack-map.com/snack/shinjuku-meteo"
+      ],
+      "hours": [
+        "https://www.snack-map.com/snack/shinjuku-meteo"
+      ],
+      "closed": [
+        "https://www.snack-map.com/snack/shinjuku-meteo"
+      ],
+      "seats": [
+        "https://www.snack-map.com/snack/shinjuku-meteo"
+      ],
+      "fees": [
+        "https://www.snack-map.com/snack/shinjuku-meteo"
+      ],
+      "payment": [
+        "https://www.snack-map.com/snack/shinjuku-meteo"
+      ]
+    }
+  },
+  {
+    "id": "researched-snack-rouge",
+    "slug": "shinjuku-snack-rouge",
+    "cat": "snack",
+    "name": {
+      "ja": "Barるーじゅ",
+      "ko": "바 루주",
+      "en": "Bar Rouge"
+    },
+    "address": "東京都新宿区歌舞伎町２丁目２０−１１ 第7本間ビル ２F-A",
+    "phone": "03-6273-9921",
+    "mapUrl": "https://maps.app.goo.gl/NqaXtE5GUFotCeyK8",
+    "socialUrl": "https://www.instagram.com/bar_rouge_/",
+    "hours": {
+      "ja": "20:00〜翌03:00",
+      "ko": "20:00~익일03:00",
+      "en": "20:00–03:00 next day"
+    },
+    "closed": {
+      "ja": "日曜",
+      "ko": "일요일",
+      "en": "Sunday"
+    },
+    "seats": {
+      "ja": "カウンター7席＋ボックス12席",
+      "ko": "카운터7석·박스12석",
+      "en": "7 counter + 12 box seats"
+    },
+    "fees": {
+      "ja": "セット男性¥5,000／女性¥3,000、ボトル¥8,000〜、キャストドリンク¥1,000、割り物¥1,000、TAX20%と掲載。時間条件は要確認。",
+      "ko": "세트 남성 ¥5,000/여성 ¥3,000, 보틀 ¥8,000부터·캐스트드링크 ¥1,000·믹서 ¥1,000·TAX20% 기재. 이용시간 조건 확인 필요.",
+      "en": "Set: men ¥5,000 / women ¥3,000; bottles from ¥8,000, cast drinks ¥1,000, mixers ¥1,000; source lists TAX20%. Confirm the time allowance."
+    },
+    "payment": "現金\nクレジットカード\nPayPay",
+    "sourceUrl": "https://www.snack-map.com/snack/shinjuku-rouge",
+    "checkedAt": "2026-11-08",
+    "sourceType": "third_party_directory",
+    "ownerConfirmed": false,
+    "photoPermission": "not_obtained",
+    "images": [],
+    "districtSlug": "shinjuku-kabukicho",
+    "fieldSources": {
+      "name": [
+        "https://www.snack-map.com/snack/shinjuku-rouge"
+      ],
+      "address": [
+        "https://www.snack-map.com/snack/shinjuku-rouge"
+      ],
+      "phone": [
+        "https://www.snack-map.com/snack/shinjuku-rouge"
+      ],
+      "hours": [
+        "https://www.snack-map.com/snack/shinjuku-rouge"
+      ],
+      "closed": [
+        "https://www.snack-map.com/snack/shinjuku-rouge"
+      ],
+      "seats": [
+        "https://www.snack-map.com/snack/shinjuku-rouge"
+      ],
+      "fees": [
+        "https://www.snack-map.com/snack/shinjuku-rouge"
+      ],
+      "payment": [
+        "https://www.snack-map.com/snack/shinjuku-rouge"
+      ]
+    }
+  },
+  {
+    "id": "researched-snack-imari",
+    "slug": "shinjuku-snack-imari",
+    "cat": "snack",
+    "name": {
+      "ja": "伊万里",
+      "ko": "이마리",
+      "en": "Imari"
+    },
+    "address": "東京都新宿区歌舞伎町2-34-8第5Sビル3階",
+    "phone": "03-6457-6534",
+    "mapUrl": "https://maps.app.goo.gl/uDHxJRVRUnsqoC7i9",
+    "socialUrl": "https://www.instagram.com/washoku.bar.imari/",
+    "hours": {
+      "ja": "19:00〜LAST（終了時刻未掲載）",
+      "ko": "19:00~LAST(종료 시각 미기재)",
+      "en": "From 19:00; closing time not specified"
+    },
+    "closed": {
+      "ja": "定休なしと掲載",
+      "ko": "정기휴일 없음으로 기재",
+      "en": "No regular holiday listed"
+    },
+    "seats": {
+      "ja": "カウンター5席＋ボックス10席",
+      "ko": "카운터5석·박스10석",
+      "en": "5 counter + 10 box seats"
+    },
+    "fees": {
+      "ja": "飲み放題90分¥3,300、ビール付き¥4,400。ボトルチャージ¥3,300、ボトル¥5,500〜。税の扱いは要確認。",
+      "ko": "90분 음료 무제한 ¥3,300·맥주 포함 ¥4,400. 보틀차지 ¥3,300·보틀 ¥5,500부터. 세금 포함 여부 확인 필요.",
+      "en": "90-minute drinks plan ¥3,300, or ¥4,400 with beer. Bottle charge ¥3,300, bottles from ¥5,500. Confirm tax treatment."
+    },
+    "payment": "現金\nクレジットカード\nQUICPay\nID",
+    "sourceUrl": "https://www.snack-map.com/snack/shinjuku-imari",
+    "checkedAt": "2026-11-08",
+    "sourceType": "third_party_directory",
+    "ownerConfirmed": false,
+    "photoPermission": "not_obtained",
+    "images": [],
+    "districtSlug": "shinjuku-kabukicho",
+    "fieldSources": {
+      "name": [
+        "https://www.snack-map.com/snack/shinjuku-imari"
+      ],
+      "address": [
+        "https://www.snack-map.com/snack/shinjuku-imari"
+      ],
+      "phone": [
+        "https://www.snack-map.com/snack/shinjuku-imari"
+      ],
+      "hours": [
+        "https://www.snack-map.com/snack/shinjuku-imari"
+      ],
+      "closed": [
+        "https://www.snack-map.com/snack/shinjuku-imari"
+      ],
+      "seats": [
+        "https://www.snack-map.com/snack/shinjuku-imari"
+      ],
+      "fees": [
+        "https://www.snack-map.com/snack/shinjuku-imari"
+      ],
+      "payment": [
+        "https://www.snack-map.com/snack/shinjuku-imari"
+      ]
+    }
+  },
+  {
+    "id": "researched-snack-cloud9",
+    "slug": "shinjuku-snack-cloud9",
+    "cat": "snack",
+    "name": {
+      "ja": "snack cloud9",
+      "ko": "스낙크 클라우드9",
+      "en": "snack cloud9"
+    },
+    "address": "東京都新宿区歌舞伎町２丁目４６−７ 第3平沢ビル7階",
+    "phone": null,
+    "mapUrl": "https://maps.app.goo.gl/Vpzo6KKkwLDRi4jCA",
+    "socialUrl": "https://www.instagram.com/snack_cloud9/",
+    "hours": {
+      "ja": "22:00〜翌05:00",
+      "ko": "22:00~익일05:00",
+      "en": "22:00–05:00 next day"
+    },
+    "closed": {
+      "ja": "日・月曜",
+      "ko": "일·월요일",
+      "en": "Sunday and Monday"
+    },
+    "seats": {
+      "ja": "カウンター6席＋ボックス7席",
+      "ko": "카운터6석·박스7석",
+      "en": "6 counter + 7 box seats"
+    },
+    "fees": {
+      "ja": "60分セット¥3,300、延長60分¥1,650、スタッフドリンク¥1,100〜、サービス料15%と掲載。",
+      "ko": "60분 세트 ¥3,300·연장60분 ¥1,650·스태프드링크 ¥1,100부터·서비스료15% 기재.",
+      "en": "60-minute set ¥3,300; 60-minute extension ¥1,650; staff drinks from ¥1,100; source lists 15% service charge."
+    },
+    "payment": "現金, クレジットカード",
+    "sourceUrl": "https://www.snack-map.com/snack/shinjuku-cloud9",
+    "checkedAt": "2026-11-08",
+    "sourceType": "third_party_directory",
+    "ownerConfirmed": false,
+    "photoPermission": "not_obtained",
+    "images": [],
+    "districtSlug": "shinjuku-kabukicho",
+    "fieldSources": {
+      "name": [
+        "https://www.snack-map.com/snack/shinjuku-cloud9"
+      ],
+      "address": [
+        "https://www.snack-map.com/snack/shinjuku-cloud9"
+      ],
+      "phone": [
+        "https://www.snack-map.com/snack/shinjuku-cloud9"
+      ],
+      "hours": [
+        "https://www.snack-map.com/snack/shinjuku-cloud9"
+      ],
+      "closed": [
+        "https://www.snack-map.com/snack/shinjuku-cloud9"
+      ],
+      "seats": [
+        "https://www.snack-map.com/snack/shinjuku-cloud9"
+      ],
+      "fees": [
+        "https://www.snack-map.com/snack/shinjuku-cloud9"
+      ],
+      "payment": [
+        "https://www.snack-map.com/snack/shinjuku-cloud9"
+      ]
+    }
+  },
+  {
+    "id": "researched-snack-bellatrixx",
+    "slug": "shinjuku-snack-bellatrixx",
+    "cat": "snack",
+    "name": {
+      "ja": "BAR Bellatrixx",
+      "ko": "바 벨라트릭스",
+      "en": "BAR Bellatrixx"
+    },
+    "address": "東京都新宿区歌舞伎町1丁目-9-8 新宿27ビル 2階E室",
+    "phone": "07020101043",
+    "mapUrl": "https://maps.app.goo.gl/RhcFcqBhZRAve9mb6",
+    "socialUrl": null,
+    "hours": {
+      "ja": "19:00〜翌07:00",
+      "ko": "19:00~익일07:00",
+      "en": "19:00–07:00 next day"
+    },
+    "closed": {
+      "ja": "定休なしと掲載",
+      "ko": "정기휴일 없음으로 기재",
+      "en": "No regular holiday listed"
+    },
+    "seats": {
+      "ja": "カウンター14席＋ボックス6席",
+      "ko": "카운터14석·박스6석",
+      "en": "14 counter + 6 box seats"
+    },
+    "fees": {
+      "ja": "飲み放題120分男性¥3,000／女性¥2,500、延長60分¥1,000。キャストドリンク¥1,000〜。TAXなしと掲載。",
+      "ko": "120분 음료 무제한 남성 ¥3,000/여성 ¥2,500·연장60분 ¥1,000. 캐스트드링크 ¥1,000부터·TAX없음 기재.",
+      "en": "120-minute drinks plan: men ¥3,000 / women ¥2,500; 60-minute extension ¥1,000; cast drinks from ¥1,000. Source states no TAX."
+    },
+    "payment": "現金, クレジットカード, QRコード決済",
+    "sourceUrl": "https://www.snack-map.com/snack/shinjuku-bellatrixx",
+    "checkedAt": "2026-11-08",
+    "sourceType": "third_party_directory",
+    "ownerConfirmed": false,
+    "photoPermission": "not_obtained",
+    "images": [],
+    "districtSlug": "shinjuku-kabukicho",
+    "fieldSources": {
+      "name": [
+        "https://www.snack-map.com/snack/shinjuku-bellatrixx"
+      ],
+      "address": [
+        "https://www.snack-map.com/snack/shinjuku-bellatrixx"
+      ],
+      "phone": [
+        "https://www.snack-map.com/snack/shinjuku-bellatrixx"
+      ],
+      "hours": [
+        "https://www.snack-map.com/snack/shinjuku-bellatrixx"
+      ],
+      "closed": [
+        "https://www.snack-map.com/snack/shinjuku-bellatrixx"
+      ],
+      "seats": [
+        "https://www.snack-map.com/snack/shinjuku-bellatrixx"
+      ],
+      "fees": [
+        "https://www.snack-map.com/snack/shinjuku-bellatrixx"
+      ],
+      "payment": [
+        "https://www.snack-map.com/snack/shinjuku-bellatrixx"
+      ]
+    }
+  },
+  {
+    "id": "researched-snack-tobari",
+    "slug": "shinjuku-snack-tobari",
+    "cat": "snack",
+    "name": {
+      "ja": "Karaoke Bar 夜帳",
+      "ko": "가라오케 바 토바리",
+      "en": "Karaoke Bar Tobari"
+    },
+    "address": "東京都新宿区歌舞伎町2-20-11玉野ビル3階",
+    "phone": "03-6205-6281",
+    "mapUrl": "https://maps.app.goo.gl/ZxehC1YQECgc8pWE8",
+    "socialUrl": "https://www.instagram.com/karaokebar_tobari/",
+    "hours": {
+      "ja": "23:00〜翌07:00",
+      "ko": "23:00~익일07:00",
+      "en": "23:00–07:00 next day"
+    },
+    "closed": {
+      "ja": "火・水曜",
+      "ko": "화·수요일",
+      "en": "Tuesday and Wednesday"
+    },
+    "seats": {
+      "ja": "カウンター5席＋ボックス計5席",
+      "ko": "카운터5석·박스 총5석",
+      "en": "5 counter + 5 box seats"
+    },
+    "fees": {
+      "ja": "飲み放題23:00〜05:00男性¥5,500／女性¥3,300、05:00〜07:00¥3,300。ボトル制120分セット¥3,300、ボトル¥6,600〜。税の扱いは要確認。",
+      "ko": "23:00~05:00 음료 무제한 남성 ¥5,500/여성 ¥3,300·05:00~07:00 ¥3,300. 보틀제120분 세트 ¥3,300·보틀 ¥6,600부터. 세금 확인 필요.",
+      "en": "Drinks plan 23:00–05:00: men ¥5,500 / women ¥3,300; 05:00–07:00 ¥3,300. Bottle-plan 120-minute set ¥3,300, bottles from ¥6,600. Confirm taxes."
+    },
+    "payment": "現金, クレジットカード, 電子マネー, QRコード決済",
+    "sourceUrl": "https://www.snack-map.com/snack/shinjuku-tobari",
+    "checkedAt": "2026-11-08",
+    "sourceType": "third_party_directory",
+    "ownerConfirmed": false,
+    "photoPermission": "not_obtained",
+    "images": [],
+    "districtSlug": "shinjuku-kabukicho",
+    "fieldSources": {
+      "name": [
+        "https://www.snack-map.com/snack/shinjuku-tobari"
+      ],
+      "address": [
+        "https://www.snack-map.com/snack/shinjuku-tobari"
+      ],
+      "phone": [
+        "https://www.snack-map.com/snack/shinjuku-tobari"
+      ],
+      "hours": [
+        "https://www.snack-map.com/snack/shinjuku-tobari"
+      ],
+      "closed": [
+        "https://www.snack-map.com/snack/shinjuku-tobari"
+      ],
+      "seats": [
+        "https://www.snack-map.com/snack/shinjuku-tobari"
+      ],
+      "fees": [
+        "https://www.snack-map.com/snack/shinjuku-tobari"
+      ],
+      "payment": [
+        "https://www.snack-map.com/snack/shinjuku-tobari"
+      ]
+    }
+  },
+  {
+    "id": "researched-snack-jewel",
+    "slug": "shinjuku-snack-jewel",
+    "cat": "snack",
+    "name": {
+      "ja": "スナックじゅえる",
+      "ko": "스낙크 주에루",
+      "en": "Snack Jewel"
+    },
+    "address": "東京都新宿区歌舞伎町2-34-8 第5Sビル6F",
+    "phone": "03-3208-8844",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E6%AD%8C%E8%88%9E%E4%BC%8E%E7%94%BA2-34-8%20%E7%AC%AC5S%E3%83%93%E3%83%AB6F",
+    "socialUrl": "https://www.instagram.com/snack_jewel_shinjyuku/",
+    "hours": {
+      "ja": "20:00〜LAST。閉店時刻は要確認",
+      "ko": "20:00~LAST·종료 시각 확인 필요",
+      "en": "From 20:00; confirm closing time"
+    },
+    "closed": {
+      "ja": "日・月・祝日（媒体間で差異あり、要確認）",
+      "ko": "일·월·공휴일(매체 간 차이·확인 필요)",
+      "en": "Sun/Mon/public holidays listed; sources differ, confirm"
+    },
+    "seats": {
+      "ja": "カウンター8席＋テーブル12席",
+      "ko": "카운터8석·테이블12석",
+      "en": "8 counter + 12 table seats"
+    },
+    "fees": {
+      "ja": "媒体間で料金条件に差異があります。誤案内を避けるため金額は非掲載。店舗へ直接確認してください。",
+      "ko": "매체 간 요금 조건이 달라 금액은 게재하지 않습니다. 매장에 직접 확인하세요.",
+      "en": "Sources disagree on pricing conditions. Amounts are withheld; confirm directly with the venue."
+    },
+    "payment": "クレジットカード",
+    "sourceUrl": "https://www.snack-guide.com/tokyo/14190/",
+    "additionalSources": [
+      "https://www.snackyokocho.com/snack/5717/"
+    ],
+    "checkedAt": "2026-11-08",
+    "sourceType": "third_party_directory",
+    "ownerConfirmed": false,
+    "photoPermission": "not_obtained",
+    "images": [],
+    "districtSlug": "shinjuku-kabukicho",
+    "fieldSources": {
+      "address": [
+        "https://www.snack-guide.com/tokyo/14190/",
+        "https://www.snackyokocho.com/snack/5717/"
+      ]
+    }
+  }
+]

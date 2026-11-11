@@ -1,0 +1,11 @@
+{
+  "build": "reference-design-connected",
+  "design": "charcoal-gold",
+  "languages": [
+    "ja",
+    "ko",
+    "en"
+  ],
+  "publicListings": 22,
+  "source": "research/venues.json"
+}

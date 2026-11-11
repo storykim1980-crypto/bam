@@ -1,0 +1,29 @@
+{
+  "counts": {
+    "scope": 102,
+    "retainedWithEvidence": 2,
+    "deleted": 100,
+    "adminOnlyExcluded": 87,
+    "individuallyScreened": 15,
+    "previous10Retained": 10,
+    "currentPublic": 12,
+    "remainingUnreviewedInOriginal102": 0,
+    "newVenues": 0,
+    "closureDeterminations": 0,
+    "rawHTTPStatusProvided": false,
+    "remoteChanged": false
+  },
+  "deletedReasonsByCategory": {
+    "snack": "이번 확인한 개별 출처에서 날짜 있는 최근 매장 운영 본문 미확보",
+    "girlsbar": "개별 플랫폼은 갱신일만 최신이거나 행정 명부뿐; 최근 매장 운영 본문 미확보",
+    "massage": "행정명부만 있거나 개별 페이지에서 최근 해당점 운영 본문 미확보"
+  },
+  "screeningNotes": [
+    "2C surfaced venue event2025-02-07;modified2026-10-26 is not operational date",
+    "ARUE surfaced videos2023-04-13;Oraf reopening2022-04-01",
+    "Goo-it Gyoen venue notice2025-10-27;2026 notices link to another branch",
+    "Hogushi latest surfaced body2024;Yururi homepage/old reviews alone insufficient",
+    "Rirakuru dated pricing change is chain-wide,not selected as branch-specific operational body",
+    "Five Snack Map venues plus Akari contain undated information;Jewel has explicit2026 anniversary reception event"
+  ]
+}

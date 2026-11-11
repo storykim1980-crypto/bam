@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "catalog": 22,
+  "canonical22Unchanged": true,
+  "views": 342,
+  "checks": 21,
+  "staticChecks": 15,
+  "deletedRoutes404": 300,
+  "overflow": [],
+  "errors": []
+}

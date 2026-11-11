@@ -1,0 +1,1702 @@
+[
+  {
+    "id": "researched-snack-powan",
+    "slug": "shinjuku-snack-powan",
+    "cat": "snack",
+    "name": {
+      "ja": "すなっくPOWAN",
+      "ko": "스낙크 POWAN",
+      "en": "Snack POWAN"
+    },
+    "address": "東京都新宿区新宿５丁目18-11谷川ビル502",
+    "phone": "080-8887-6048",
+    "mapUrl": "https://maps.app.goo.gl/oC5jZpS511kerFbs8",
+    "socialUrl": "https://www.instagram.com/hina.powan/",
+    "hours": {
+      "ja": "月〜土20:00〜翌03:00／日20:00〜24:00",
+      "ko": "월~토 20:00~익일03:00 / 일 20:00~24:00",
+      "en": "Mon–Sat 20:00–03:00 next day; Sun 20:00–24:00"
+    },
+    "closed": {
+      "ja": "定休なしと掲載",
+      "ko": "정기휴일 없음으로 기재",
+      "en": "No regular holiday listed"
+    },
+    "seats": {
+      "ja": "カウンター6席＋ボックス5席",
+      "ko": "카운터6석·박스5석",
+      "en": "6 counter + 5 box seats"
+    },
+    "fees": {
+      "ja": "第三者表：ボトルプラン4,000円、ボトル4,000円～、スタッフ1杯1,000円。TAX10%、サービス料なし。ボトル各1本＋プランの例は8,800円。単品制の旧金額は再確認できず非掲載。初回クーポンの利用条件は要確認。",
+      "ko": "제3자표: 보틀플랜4000엔·보틀4000엔부터·스태프음료1000엔. TAX10%·서비스료없음. 4000엔보틀1병+플랜 예시8800엔. 기존 단품가격 재확인불가·미게재. 첫방문쿠폰 조건확인.",
+      "en": "Third-party table:bottle-plan¥4000,bottles from¥4000,staff drink¥1000;TAX10%,no service fee. Example one¥4000 bottle plus plan totals¥8800. Old by-drink amounts not reconfirmed and omitted. Confirm first-visit coupon conditions."
+    },
+    "payment": "クレジットカード\n₍Visa/Mastercard/JCB/American Express/Diners Club/Discover/UnionPay₎\nQUICPay/iD\nQR決済\n₍d払い/PayPay/au PAY/楽天ペイ₎",
+    "sourceUrl": "https://www.snack-map.com/snack/shinjuku-powan",
+    "checkedAt": "2026-11-08",
+    "sourceType": "third_party_directory",
+    "ownerConfirmed": false,
+    "photoPermission": "not_obtained",
+    "images": [],
+    "districtSlug": "shinjuku-5chome",
+    "fieldSources": {
+      "name": [
+        "https://www.snack-map.com/snack/shinjuku-powan"
+      ],
+      "address": [
+        "https://www.snack-map.com/snack/shinjuku-powan"
+      ],
+      "phone": [
+        "https://www.snack-map.com/snack/shinjuku-powan"
+      ],
+      "hours": [
+        "https://www.snack-map.com/snack/shinjuku-powan"
+      ],
+      "closed": [
+        "https://www.snack-map.com/snack/shinjuku-powan"
+      ],
+      "seats": [
+        "https://www.snack-map.com/snack/shinjuku-powan"
+      ],
+      "fees": [
+        "https://www.snack-map.com/snack/shinjuku-powan"
+      ],
+      "payment": [
+        "https://www.snack-map.com/snack/shinjuku-powan"
+      ]
+    },
+    "status": "published_research",
+    "researchMethod": "online_only",
+    "verification": {
+      "sourceReviewed": true,
+      "owner": false,
+      "onSite": false,
+      "phone": false,
+      "operation": false,
+      "licence": false
+    },
+    "imageMode": "ai_category_illustration",
+    "sourceReuseBasis": "Factual summary only; no copied photos or promotional prose; no licence to the source database is implied."
+  },
+  {
+    "id": "researched-snack-aiai",
+    "slug": "shinjuku-snack-aiai",
+    "cat": "snack",
+    "name": {
+      "ja": "スナック藍々",
+      "ko": "스낙크 아이아이",
+      "en": "Snack Aiai"
+    },
+    "address": "東京都新宿区歌舞伎町2-45-17 ジェスト33ビル205",
+    "phone": null,
+    "mapUrl": "https://maps.app.goo.gl/T7uxtrNxTPhmrvbz8",
+    "socialUrl": "https://www.instagram.com/shinjukuaiai/",
+    "hours": {
+      "ja": "スナック19:00〜24:00／BAR24:00〜翌05:00",
+      "ko": "스낙크19:00~24:00 / 바24:00~익일05:00",
+      "en": "Snack 19:00–24:00; bar 00:00–05:00"
+    },
+    "closed": {
+      "ja": "不定休。SNSで確認",
+      "ko": "비정기 휴무·SNS 확인",
+      "en": "Irregular holidays; check SNS"
+    },
+    "seats": {
+      "ja": "カウンター3席＋ボックス8席",
+      "ko": "카운터3석·박스8석",
+      "en": "3 counter + 8 box seats"
+    },
+    "fees": {
+      "ja": "飲み放題60分¥3,000、1時間ごと自動延長と掲載。ボトル制セット1時間¥1,500＋ボトル¥4,500〜。税・追加料金は店舗へ確認。",
+      "ko": "60분 음료 무제한 ¥3,000·1시간마다 자동연장 기재. 보틀제 1시간 세트 ¥1,500+보틀 ¥4,500부터. 세금·추가요금은 매장 확인.",
+      "en": "60-minute drinks plan ¥3,000, with automatic hourly extensions listed. Bottle-plan hourly set ¥1,500 plus bottles from ¥4,500. Confirm taxes and extras."
+    },
+    "payment": "現金\nクレジットカード",
+    "sourceUrl": "https://www.snack-map.com/snack/shinjuku-aiai",
+    "checkedAt": "2026-11-08",
+    "sourceType": "third_party_directory",
+    "ownerConfirmed": false,
+    "photoPermission": "not_obtained",
+    "images": [],
+    "districtSlug": "shinjuku-kabukicho",
+    "fieldSources": {
+      "name": [
+        "https://www.snack-map.com/snack/shinjuku-aiai"
+      ],
+      "address": [
+        "https://www.snack-map.com/snack/shinjuku-aiai"
+      ],
+      "phone": [
+        "https://www.snack-map.com/snack/shinjuku-aiai"
+      ],
+      "hours": [
+        "https://www.snack-map.com/snack/shinjuku-aiai"
+      ],
+      "closed": [
+        "https://www.snack-map.com/snack/shinjuku-aiai"
+      ],
+      "seats": [
+        "https://www.snack-map.com/snack/shinjuku-aiai"
+      ],
+      "fees": [
+        "https://www.snack-map.com/snack/shinjuku-aiai"
+      ],
+      "payment": [
+        "https://www.snack-map.com/snack/shinjuku-aiai"
+      ]
+    },
+    "status": "published_research",
+    "researchMethod": "online_only",
+    "verification": {
+      "sourceReviewed": true,
+      "owner": false,
+      "onSite": false,
+      "phone": false,
+      "operation": false,
+      "licence": false
+    },
+    "imageMode": "ai_category_illustration",
+    "sourceReuseBasis": "Factual summary only; no copied photos or promotional prose; no licence to the source database is implied."
+  },
+  {
+    "id": "researched-snack-meteo",
+    "slug": "shinjuku-snack-meteo",
+    "cat": "snack",
+    "name": {
+      "ja": "Bar lounge Météo",
+      "ko": "바 라운지 메테오",
+      "en": "Bar lounge Météo"
+    },
+    "address": "東京都新宿区歌舞伎町2-14-8メトロプラザⅡ4F",
+    "phone": "03-6457-3773",
+    "mapUrl": "https://maps.app.goo.gl/FR6qkExQvdUoqJNr8",
+    "socialUrl": "https://www.instagram.com/barlounge_meteo/",
+    "hours": {
+      "ja": "21:00〜翌05:00",
+      "ko": "21:00~익일05:00",
+      "en": "21:00–05:00 next day"
+    },
+    "closed": {
+      "ja": "日曜",
+      "ko": "일요일",
+      "en": "Sunday"
+    },
+    "seats": {
+      "ja": "カウンター8席＋ボックス6席",
+      "ko": "카운터8석·박스6석",
+      "en": "8 counter + 6 box seats"
+    },
+    "fees": {
+      "ja": "第三者表：90分飲み放題男性5,000円・女性3,000円。延長30分男性2,000円・女性1,000円、スタッフ1杯1,000円、カラオケ無料。原文「TAX20%・サービス料なし」、例は男性90分6,000円。20%を法定消費税率と解釈せず、内訳と最終額を要確認。",
+      "ko": "제3자표:90분무제한 남성5000엔·여성3000엔. 연장30분 남성2000엔·여성1000엔, 스태프음료1000엔·노래방무료. 원문「TAX20%·서비스료없음」·남성90분예시6000엔. 법정소비세율로 해석하지 않으며 내역·최종액확인.",
+      "en": "Third-party table:90min men¥5000/women¥3000;30min extension men¥2000/women¥1000,staff drink¥1000,karaoke free. Source says TAX20%,no service fee;example male90min¥6000. This is not interpreted as statutory consumption tax;confirm breakdown and final bill."
+    },
+    "payment": "現金\nクレジットカード",
+    "sourceUrl": "https://www.snack-map.com/snack/shinjuku-meteo",
+    "checkedAt": "2026-11-08",
+    "sourceType": "third_party_directory",
+    "ownerConfirmed": false,
+    "photoPermission": "not_obtained",
+    "images": [],
+    "districtSlug": "shinjuku-kabukicho",
+    "fieldSources": {
+      "name": [
+        "https://www.snack-map.com/snack/shinjuku-meteo"
+      ],
+      "address": [
+        "https://www.snack-map.com/snack/shinjuku-meteo"
+      ],
+      "phone": [
+        "https://www.snack-map.com/snack/shinjuku-meteo"
+      ],
+      "hours": [
+        "https://www.snack-map.com/snack/shinjuku-meteo"
+      ],
+      "closed": [
+        "https://www.snack-map.com/snack/shinjuku-meteo"
+      ],
+      "seats": [
+        "https://www.snack-map.com/snack/shinjuku-meteo"
+      ],
+      "fees": [
+        "https://www.snack-map.com/snack/shinjuku-meteo"
+      ],
+      "payment": [
+        "https://www.snack-map.com/snack/shinjuku-meteo"
+      ]
+    },
+    "status": "published_research",
+    "researchMethod": "online_only",
+    "verification": {
+      "sourceReviewed": true,
+      "owner": false,
+      "onSite": false,
+      "phone": false,
+      "operation": false,
+      "licence": false
+    },
+    "imageMode": "ai_category_illustration",
+    "sourceReuseBasis": "Factual summary only; no copied photos or promotional prose; no licence to the source database is implied."
+  },
+  {
+    "id": "researched-snack-imari",
+    "slug": "shinjuku-snack-imari",
+    "cat": "snack",
+    "name": {
+      "ja": "伊万里",
+      "ko": "이마리",
+      "en": "Imari"
+    },
+    "address": "東京都新宿区歌舞伎町2-34-8第5Sビル3階",
+    "phone": "03-6457-6534",
+    "mapUrl": "https://maps.app.goo.gl/uDHxJRVRUnsqoC7i9",
+    "socialUrl": "https://www.instagram.com/washoku.bar.imari/",
+    "hours": {
+      "ja": "19:00〜LAST（終了時刻未掲載）",
+      "ko": "19:00~LAST(종료 시각 미기재)",
+      "en": "From 19:00; closing time not specified"
+    },
+    "closed": {
+      "ja": "定休なしと掲載",
+      "ko": "정기휴일 없음으로 기재",
+      "en": "No regular holiday listed"
+    },
+    "seats": {
+      "ja": "カウンター5席＋ボックス10席",
+      "ko": "카운터5석·박스10석",
+      "en": "5 counter + 10 box seats"
+    },
+    "fees": {
+      "ja": "第三者表：90分飲み放題3,300円、ビール付き4,400円、カラオケ無料。料理は別料金との紹介。初回90分2,500円（税込）は別クーポン条件・利用可否要確認。",
+      "ko": "제3자표:90분무제한3300엔·맥주포함4400엔·노래방무료. 음식별도 안내. 첫90분2500엔(세금포함)은 별도쿠폰조건·이용가능확인.",
+      "en": "Third-party table:90min drinks¥3300,with beer¥4400,karaoke free;food described as extra. First-visit90min¥2500 incl.tax is a separate conditional coupon;confirm availability."
+    },
+    "payment": "現金\nクレジットカード\nQUICPay\nID",
+    "sourceUrl": "https://www.snack-map.com/snack/shinjuku-imari",
+    "checkedAt": "2026-11-08",
+    "sourceType": "third_party_directory",
+    "ownerConfirmed": false,
+    "photoPermission": "not_obtained",
+    "images": [],
+    "districtSlug": "shinjuku-kabukicho",
+    "fieldSources": {
+      "name": [
+        "https://www.snack-map.com/snack/shinjuku-imari"
+      ],
+      "address": [
+        "https://www.snack-map.com/snack/shinjuku-imari"
+      ],
+      "phone": [
+        "https://www.snack-map.com/snack/shinjuku-imari"
+      ],
+      "hours": [
+        "https://www.snack-map.com/snack/shinjuku-imari"
+      ],
+      "closed": [
+        "https://www.snack-map.com/snack/shinjuku-imari"
+      ],
+      "seats": [
+        "https://www.snack-map.com/snack/shinjuku-imari"
+      ],
+      "fees": [
+        "https://www.snack-map.com/snack/shinjuku-imari"
+      ],
+      "payment": [
+        "https://www.snack-map.com/snack/shinjuku-imari"
+      ]
+    },
+    "status": "published_research",
+    "researchMethod": "online_only",
+    "verification": {
+      "sourceReviewed": true,
+      "owner": false,
+      "onSite": false,
+      "phone": false,
+      "operation": false,
+      "licence": false
+    },
+    "imageMode": "ai_category_illustration",
+    "sourceReuseBasis": "Factual summary only; no copied photos or promotional prose; no licence to the source database is implied."
+  },
+  {
+    "id": "researched-snack-jewel",
+    "slug": "shinjuku-snack-jewel",
+    "cat": "snack",
+    "name": {
+      "ja": "スナックじゅえる",
+      "ko": "스낙크 주에루",
+      "en": "Snack Jewel"
+    },
+    "address": "東京都新宿区歌舞伎町2-34-8 第5Sビル6F",
+    "phone": "03-3208-8844",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E6%AD%8C%E8%88%9E%E4%BC%8E%E7%94%BA2-34-8%20%E7%AC%AC5S%E3%83%93%E3%83%AB6F",
+    "socialUrl": "https://www.instagram.com/snack_jewel_shinjyuku/",
+    "hours": {
+      "ja": "20:00〜LAST。閉店時刻は要確認",
+      "ko": "20:00~LAST·종료 시각 확인 필요",
+      "en": "From 20:00; confirm closing time"
+    },
+    "closed": {
+      "ja": "日・月・祝日（媒体間で差異あり、要確認）",
+      "ko": "일·월·공휴일(매체 간 차이·확인 필요)",
+      "en": "Sun/Mon/public holidays listed; sources differ, confirm"
+    },
+    "seats": {
+      "ja": "カウンター8席＋テーブル12席",
+      "ko": "카운터8석·테이블12석",
+      "en": "8 counter + 12 table seats"
+    },
+    "fees": {
+      "ja": "初回飲み放題60分5,000円/120分7,000円：2名以上、「スナックガイドを見た」と申告、サービス料込。通常ボトル制2時間8,000円・延長1時間2,000円、ボトル別・サービス10%別。女性無制限5,500円も別条件。税扱い・最終額を確認。",
+      "ko": "첫무제한60분5000엔/120분7000엔:2명이상·스낙가이드고지·서비스포함. 일반보틀2시간8000엔·연장1시간2000엔·보틀별도·서비스10%별도. 여성무제한5500엔 별도조건. 세금·최종액확인.",
+      "en": "First-visit drinks60min¥5000/120min¥7000:2+guests,mention Snack Guide,service included. Regular bottle plan2h¥8000,extension1h¥2000,bottles extra and10%service extra. Women unlimited¥5500 has separate terms;confirm tax and final bill."
+    },
+    "payment": "クレジットカード",
+    "sourceUrl": "https://www.snack-guide.com/tokyo/14190/",
+    "additionalSources": [
+      "https://www.snackyokocho.com/snack/5717/"
+    ],
+    "checkedAt": "2026-11-08",
+    "sourceType": "third_party_directory",
+    "ownerConfirmed": false,
+    "photoPermission": "not_obtained",
+    "images": [],
+    "districtSlug": "shinjuku-kabukicho",
+    "fieldSources": {
+      "address": [
+        "https://www.snack-guide.com/tokyo/14190/",
+        "https://www.snackyokocho.com/snack/5717/"
+      ],
+      "fees": [
+        "https://www.snack-guide.com/tokyo/14190/"
+      ]
+    },
+    "status": "published_research",
+    "researchMethod": "online_only",
+    "verification": {
+      "sourceReviewed": true,
+      "owner": false,
+      "onSite": false,
+      "phone": false,
+      "operation": false,
+      "licence": false
+    },
+    "imageMode": "ai_category_illustration",
+    "sourceReuseBasis": "Factual summary only; no copied photos or promotional prose; no licence to the source database is implied."
+  },
+  {
+    "id": "researched-shinjuku-girlsbar-lino",
+    "slug": "shinjuku-girlsbar-lino",
+    "cat": "girlsbar",
+    "name": {
+      "ja": "GIRL’S BAR LINO (リノ)",
+      "ko": "걸즈바 LINO",
+      "en": "GIRL’S BAR LINO"
+    },
+    "address": "東京都新宿区歌舞伎町1-4-12 ミヤタビル5F",
+    "phone": "03-6265-9545",
+    "districtSlug": "shinjuku-kabukicho",
+    "prefSlug": "tokyo",
+    "sourceUrl": "https://girlsbar-lino.tokyo/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E6%AD%8C%E8%88%9E%E4%BC%8E%E7%94%BA1-4-12%20%E3%83%9F%E3%83%A4%E3%82%BF%E3%83%93%E3%83%AB5F%20GIRL%E2%80%99S%20BAR%20LINO%20(%E3%83%AA%E3%83%8E)",
+    "socialUrl": null,
+    "checkedAt": "2026-11-08",
+    "sourceType": "official",
+    "ownerConfirmed": false,
+    "photoPermission": "not_obtained",
+    "images": [],
+    "status": "published_research",
+    "researchMethod": "online_only",
+    "verification": {
+      "sourceReviewed": true,
+      "owner": false,
+      "onSite": false,
+      "phone": false,
+      "operation": false,
+      "licence": false
+    },
+    "imageMode": "ai_category_illustration",
+    "sourceReuseBasis": "Independent factual summary; no copied venue photography or promotional text.",
+    "fieldSources": {
+      "name": [
+        "https://girlsbar-lino.tokyo/"
+      ],
+      "address": [
+        "https://girlsbar-lino.tokyo/"
+      ],
+      "phone": [
+        "https://girlsbar-lino.tokyo/"
+      ],
+      "hours": [
+        "https://girlsbar-lino.tokyo/"
+      ],
+      "closed": [
+        "https://girlsbar-lino.tokyo/"
+      ],
+      "seats": [
+        "https://girlsbar-lino.tokyo/"
+      ],
+      "fees": [
+        "https://girlsbar-lino.tokyo/price/"
+      ],
+      "payment": [
+        "https://girlsbar-lino.tokyo/price/"
+      ]
+    },
+    "hours": {
+      "ja": "20:00〜翌5:00",
+      "ko": "20:00~다음 날 05:00",
+      "en": "20:00–05:00 next day"
+    },
+    "closed": {
+      "ja": "日曜。祝日・祝前日は変更あり",
+      "ko": "일요일. 공휴일·공휴일 전날 변경 가능",
+      "en": "Sundays; holidays and holiday eves may vary"
+    },
+    "seats": {
+      "ja": "カウンター12席",
+      "ko": "카운터 12석",
+      "en": "12 counter seats"
+    },
+    "payment": "現金（日本円のみ）・クレジットカード",
+    "additionalSources": [
+      "https://girlsbar-lino.tokyo/price/"
+    ],
+    "fees": {
+      "ja": "公式料金表：40分4,000円、延長40分4,000円。税・サービス料は合計金額の20%。カラオケ5曲1,000円。飲み放題の範囲・追加注文・自動延長・最終総額は来店前に確認。",
+      "ko": "공식 요금표: 40분 4,000엔, 연장 40분 4,000엔. 세금·서비스료는 합계 금액의 20%로 표기. 가라오케 5곡 1,000엔. 무제한 음료 범위·추가 주문·자동연장·최종 총액은 방문 전 확인하세요.",
+      "en": "Official price page lists ¥4,000 per 40 minutes and ¥4,000 per 40-minute extension, plus tax/service charges listed as 20% of the total. Karaoke: ¥1,000 for five songs. Confirm included drinks, extras, automatic extensions and final total."
+    }
+  },
+  {
+    "id": "researched-shinjuku-girlsbar-giragira",
+    "slug": "shinjuku-girlsbar-giragira",
+    "cat": "girlsbar",
+    "name": {
+      "ja": "ギラギラガールズ",
+      "ko": "기라기라 걸즈",
+      "en": "Giragira Girls"
+    },
+    "address": "東京都新宿区歌舞伎町1-7-7 B1F",
+    "phone": "03-3200-5566",
+    "districtSlug": "shinjuku-kabukicho",
+    "prefSlug": "tokyo",
+    "sourceUrl": "https://giragiragirls.com/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E6%AD%8C%E8%88%9E%E4%BC%8E%E7%94%BA1-7-7%20B1F%20%E3%82%AE%E3%83%A9%E3%82%AE%E3%83%A9%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA",
+    "socialUrl": null,
+    "checkedAt": "2026-11-08",
+    "sourceType": "official",
+    "ownerConfirmed": false,
+    "photoPermission": "not_obtained",
+    "images": [],
+    "status": "published_research",
+    "researchMethod": "online_only",
+    "verification": {
+      "sourceReviewed": true,
+      "owner": false,
+      "onSite": false,
+      "phone": false,
+      "operation": false,
+      "licence": false
+    },
+    "imageMode": "ai_category_illustration",
+    "sourceReuseBasis": "Independent summary of individual publicly disclosed facts. No copied venue photos, reviews or promotional prose.",
+    "fieldSources": {
+      "name": [
+        "https://giragiragirls.com/"
+      ],
+      "address": [
+        "https://giragiragirls.com/access.php"
+      ],
+      "phone": [
+        "https://giragiragirls.com/access.php"
+      ],
+      "hours": [
+        "https://giragiragirls.com/",
+        "https://giragiragirls.com/system.php"
+      ],
+      "closed": [
+        "https://giragiragirls.com/system.php"
+      ],
+      "fees": [
+        "https://giragiragirls.com/system.php"
+      ],
+      "services": [
+        "https://giragiragirls.com/system.php"
+      ],
+      "access": [
+        "https://giragiragirls.com/access.php"
+      ]
+    },
+    "additionalSources": [
+      "https://giragiragirls.com/access.php",
+      "https://giragiragirls.com/system.php"
+    ],
+    "hours": {
+      "ja": "料金ページは月〜土20:00〜LAST、日曜19:00〜LAST。共通フッターは毎日19:00〜LASTと昼公演10:30〜18:10を記載。夜の開始時刻に差があり、昼の別プログラムと混同せず確認。",
+      "ko": "요금 페이지는 월~토 20:00~LAST, 일요일 19:00~LAST로 안내합니다. 공통 하단은 매일 19:00~LAST 및 낮 공연 10:30~18:10을 표기합니다. 야간 시작 시각에 차이가 있어 낮 별도 프로그램과 구분하여 확인하세요.",
+      "en": "System page: Mon–Sat 20:00–LAST; Sun 19:00–LAST. Site footer lists daily 19:00–LAST and separate daytime shows 10:30–18:10. Night opening times differ; confirm the applicable program."
+    },
+    "closed": {
+      "ja": "曜日別プランあり。臨時休業は未確認",
+      "ko": "요일별 플랜 안내 있음. 임시휴무 미확인",
+      "en": "Day-specific plans are listed; temporary closures not confirmed"
+    },
+    "seats": null,
+    "payment": null,
+    "fees": {
+      "ja": "料金ページは通常60分4,400円（税込）、延長60分4,400円・30分2,750円（税込）を記載。日曜の別プラン、観光客向けコース、早期予約条件も別掲載。別欄には税10%・サービス料15%が併記されており税込表示との関係が不明確なため最終総額は算出しない。延長後は飲み放題終了の注記あり。予約条件・追加注文を含め店舗へ確認。",
+      "ko": "요금 페이지에는 일반 60분 4,400엔(세금 포함), 연장 60분 4,400엔·30분 2,750엔(세금 포함)이 기재되어 있습니다. 일요일·관광객 코스·조기 예약은 별도 조건입니다. 별도 항목의 세금 10%·서비스료 15%와 세금 포함 표기의 관계가 불명확해 최종 총액은 계산하지 않았습니다. 연장 후 무제한 음료 종료 안내가 있으니 예약·추가 주문 조건을 확인하세요.",
+      "en": "System page lists a standard 60-minute ¥4,400 fee, extensions of ¥4,400/60 min or ¥2,750/30 min, labelled tax-inclusive. Sunday, tourist and early-booking plans have separate conditions. Another section lists 10% tax and 15% service; how these interact is unclear, so no final total is calculated. Listed unlimited drinks end after extension; confirm booking conditions and extras."
+    },
+    "access": {
+      "ja": "歌舞伎町1丁目の地下1階。地図で建物入口を確認",
+      "ko": "가부키초 1초메 지하 1층. 지도에서 건물 입구 확인",
+      "en": "Basement level in Kabukicho 1-chome; confirm the building entrance on the map"
+    },
+    "services": {
+      "ja": "夜のバー利用と昼のレストラン公演は別条件",
+      "ko": "야간 바 이용과 낮 레스토랑 공연은 별도 조건",
+      "en": "Night bar visits and daytime restaurant shows have different conditions"
+    }
+  },
+  {
+    "id": "researched-shinjuku-massage-gooit-west",
+    "slug": "shinjuku-massage-gooit-west",
+    "cat": "massage",
+    "name": {
+      "ja": "Goo-it! 新宿西口店",
+      "ko": "Goo-it! 신주쿠 서쪽 출구점",
+      "en": "Goo-it! Shinjuku West"
+    },
+    "address": "東京都新宿区西新宿1-14-15 タウンウエスト5F",
+    "phone": "03-3342-5550",
+    "districtSlug": "shinjuku-west",
+    "prefSlug": "tokyo",
+    "sourceUrl": "https://www.gooit.jp/shop/shinjuku_west/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E8%A5%BF%E6%96%B0%E5%AE%BF1-14-15%20%E3%82%BF%E3%82%A6%E3%83%B3%E3%82%A6%E3%82%A8%E3%82%B9%E3%83%885F%20Goo-it!%20%E6%96%B0%E5%AE%BF%E8%A5%BF%E5%8F%A3%E5%BA%97",
+    "socialUrl": null,
+    "checkedAt": "2026-11-08",
+    "sourceType": "official",
+    "ownerConfirmed": false,
+    "photoPermission": "not_obtained",
+    "images": [],
+    "status": "published_research",
+    "researchMethod": "online_only",
+    "verification": {
+      "sourceReviewed": true,
+      "owner": false,
+      "onSite": false,
+      "phone": false,
+      "operation": false,
+      "licence": false
+    },
+    "imageMode": "ai_category_illustration",
+    "sourceReuseBasis": "Independent summary of individual publicly disclosed facts. No copied venue photos, reviews or promotional prose.",
+    "fieldSources": {
+      "name": [
+        "https://www.gooit.jp/shop/shinjuku_west/"
+      ],
+      "address": [
+        "https://www.gooit.jp/shop/shinjuku_west/"
+      ],
+      "phone": [
+        "https://www.gooit.jp/shop/shinjuku_west/"
+      ],
+      "hours": [
+        "https://www.gooit.jp/shop/shinjuku_west/"
+      ],
+      "closed": [
+        "https://www.gooit.jp/shop/shinjuku_west/"
+      ],
+      "payment": [
+        "https://www.gooit.jp/shop/shinjuku_west/"
+      ],
+      "fees": [
+        "https://www.gooit.jp/shop/shinjuku_west/"
+      ],
+      "access": [
+        "https://www.gooit.jp/shop/shinjuku_west/"
+      ],
+      "services": [
+        "https://www.gooit.jp/shop/shinjuku_west/"
+      ],
+      "bookingUrl": [
+        "https://www.gooit.jp/shop/shinjuku_west/"
+      ],
+      "seats": [
+        "https://www.gooit.jp/shop/shinjuku_west/access-shinjuku_west/"
+      ],
+      "notices": [
+        "https://www.gooit.jp/shop/shinjuku_west/news-shinjuku_west/post-16106/"
+      ]
+    },
+    "additionalSources": [
+      "https://www.gooit.jp/shop/shinjuku_west/access-shinjuku_west/",
+      "https://www.gooit.jp/shop/shinjuku_west/news-shinjuku_west/post-16106/"
+    ],
+    "bookingUrl": "https://fan-card.jp/gooit_fc34/show-menu-list?hstId=4",
+    "hours": {
+      "ja": "平日・祝日11:00〜23:00／土日10:00〜23:00",
+      "ko": "평일·공휴일 11:00~23:00 / 토·일 10:00~23:00",
+      "en": "Weekdays/holidays 11:00–23:00; Sat/Sun 10:00–23:00"
+    },
+    "closed": {
+      "ja": "年中無休、年末年始の一部を除く",
+      "ko": "연중무휴, 연말연시 일부 제외",
+      "en": "Daily except some year-end/New Year dates"
+    },
+    "seats": {
+      "ja": "施術ベッド10台（公式アクセスページ）",
+      "ko": "시술 베드 10대(공식 접근 안내)",
+      "en": "10 treatment beds, per official access page"
+    },
+    "payment": "現金・PayPay（前払い）",
+    "access": {
+      "ja": "JR新宿駅西口から徒歩5分、都営大江戸線新宿駅7番出口から徒歩2分",
+      "ko": "JR 신주쿠역 서쪽 출구 도보 5분, 도에이 오에도선 신주쿠역 7번 출구 도보 2분",
+      "en": "Listed walk: 5 min from JR Shinjuku West Exit; 2 min from Oedo Line Shinjuku Exit 7"
+    },
+    "services": {
+      "ja": "もみほぐし・リフレクソロジー・ヘッドほぐし等。医療効果や国家資格は当サイト未確認",
+      "ko": "몸풀기·발 리플렉솔로지·헤드 케어 등. 의료 효과·국가 자격은 본 사이트 미확인",
+      "en": "Body relaxation, reflexology and head relaxation; this site has not verified medical effects or professional licensing"
+    },
+    "notices": {
+      "ja": "公式告知：2026年11月15日（日）のみ11:00〜23:00。通常の日曜開店10:00と異なる",
+      "ko": "공식 공지: 2026년 11월 15일(일)만 11:00~23:00. 통상 일요일 개점 10:00와 다름",
+      "en": "Official notice: 15 November 2026 only, 11:00–23:00 rather than the usual Sunday 10:00 opening"
+    },
+    "fees": {
+      "ja": "公式店舗ページはもみほぐし60分3,980円（税込）を案内。もみ60分＋ヘッド・オイルネック20分は合計80分5,960円（税込）。期間限定・昼割メニューは別条件なので常設料金に混ぜない。着替え・指名・追加時間などの最終条件は予約先で確認。",
+      "ko": "공식 매장 페이지는 몸풀기 60분 3,980엔(세금 포함)을 안내합니다. 몸풀기 60분+헤드·오일 넥 20분은 총 80분 5,960엔(세금 포함). 기간 한정·낮 할인은 별도 조건이므로 상시 요금에 섞지 않았습니다. 환복·지명·추가 시간 등 최종 조건은 예약처에서 확인하세요.",
+      "en": "Official store page lists body relaxation 60 min at ¥3,980 including tax, and body 60 min + head/oil-neck 20 min (80 min total) at ¥5,960 including tax. Seasonal/daytime offers have separate terms and are not treated as permanent prices. Confirm clothing rental, therapist requests, extensions and final total when booking."
+    }
+  },
+  {
+    "id": "researched-shinjuku-girlsbar-evil",
+    "slug": "shinjuku-girlsbar-evil",
+    "cat": "girlsbar",
+    "name": {
+      "ja": "えびる",
+      "ko": "에비루",
+      "en": "Evil"
+    },
+    "address": "東京都新宿区歌舞伎町1-11-12 KIビル2F左側室",
+    "phone": "070-4291-9244",
+    "districtSlug": "shinjuku-kabukicho",
+    "prefSlug": "tokyo",
+    "sourceUrl": "https://nightstyle.jp/shop/evil/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E6%AD%8C%E8%88%9E%E4%BC%8E%E7%94%BA1-11-12%20KI%E3%83%93%E3%83%AB2F%E5%B7%A6%E5%81%B4%E5%AE%A4%20%E3%81%88%E3%81%B3%E3%82%8B",
+    "socialUrl": null,
+    "checkedAt": "2026-11-08",
+    "sourceType": "third_party_directory",
+    "ownerConfirmed": false,
+    "photoPermission": "not_obtained",
+    "images": [],
+    "status": "published_research",
+    "researchMethod": "online_only",
+    "verification": {
+      "sourceReviewed": true,
+      "owner": false,
+      "onSite": false,
+      "phone": false,
+      "operation": false,
+      "licence": false
+    },
+    "imageMode": "ai_category_illustration",
+    "sourceReuseBasis": "Independent factual summary only, not copied photos, reviews, coupons or promotional prose.",
+    "fieldSources": {
+      "name": [
+        "https://nightstyle.jp/shop/evil/"
+      ],
+      "address": [
+        "https://nightstyle.jp/shop/evil/"
+      ],
+      "phone": [
+        "https://nightstyle.jp/shop/evil/"
+      ],
+      "hours": [
+        "https://nightstyle.jp/shop/evil/"
+      ],
+      "closed": [
+        "https://nightstyle.jp/shop/evil/"
+      ],
+      "payment": [
+        "https://nightstyle.jp/shop/evil/"
+      ],
+      "access": [
+        "https://nightstyle.jp/shop/evil/"
+      ],
+      "fees": [
+        "https://nightstyle.jp/shop/evil/"
+      ],
+      "notices": [
+        "https://nightstyle.jp/shop/evil/"
+      ]
+    },
+    "additionalSources": [],
+    "hours": {
+      "ja": "掲載20:00〜翌05:00",
+      "ko": "출처 표기 20:00~다음 날 05:00",
+      "en": "Listed 20:00–05:00 next day"
+    },
+    "closed": {
+      "ja": "不定休",
+      "ko": "부정기 휴무",
+      "en": "Irregular closures"
+    },
+    "seats": null,
+    "payment": "クレジットカード（VISA/JCB/AMEX/Master/Diners）",
+    "access": {
+      "ja": "掲載案内：西武新宿駅徒歩4分、JR新宿駅徒歩6分。ビル2階左側室",
+      "ko": "출처 안내: 세이부신주쿠역 도보 4분, JR 신주쿠역 도보 6분. 건물 2층 왼쪽 호실",
+      "en": "Listed walk: 4 min from Seibu-Shinjuku; 6 min from JR Shinjuku. Left-side room, second floor"
+    },
+    "fees": {
+      "ja": "第三者媒体は60分3,000円（女性2,000円）、延長50分3,000円／30分2,000円、税・サービス料20%、同伴3,000円を記載。延長は「自動」とされるため終了時刻・停止方法・追加注文・税サの適用範囲を入店前に確認。媒体限定クーポンは当サイトの特典として掲載しない。",
+      "ko": "제3자 매체 표기: 60분 3,000엔(여성 2,000엔), 연장 50분 3,000엔/30분 2,000엔, 세금·서비스료 20%, 동반 3,000엔. 연장 방식은 ‘자동’이므로 종료 시각·연장 중지 방법·추가 주문·세금 및 서비스료 적용 범위를 입장 전 확인하세요. 매체 한정 쿠폰은 당사 혜택으로 제공하지 않습니다.",
+      "en": "Third-party listing: 60 min ¥3,000 (women ¥2,000), extensions ¥3,000/50 min or ¥2,000/30 min, tax/service 20%, accompaniment ¥3,000. Extensions are listed as automatic: confirm end time, how to stop renewal, extras and tax/service scope before entering. Directory-specific coupons are not offers from this site."
+    },
+    "notices": {
+      "ja": "第三者掲載では自動延長。現在の適用は未確認。来店前に店舗へ確認",
+      "ko": "제3자 출처에는 자동연장으로 기재되어 있습니다. 현재 적용 여부는 미확인입니다. 방문 전 매장에 확인하세요.",
+      "en": "A third-party source lists automatic extensions. Current applicability is unconfirmed; contact the venue before visiting."
+    }
+  },
+  {
+    "id": "researched-shinjuku-girlsbar-one",
+    "slug": "shinjuku-girlsbar-one",
+    "cat": "girlsbar",
+    "name": {
+      "ja": "Girl’s bar One (ワン)",
+      "ko": "걸즈바 One",
+      "en": "Girl’s bar One"
+    },
+    "address": "東京都新宿区歌舞伎町1-15-12 ピアットビル3F",
+    "phone": "080-9425-2248",
+    "districtSlug": "shinjuku-kabukicho",
+    "prefSlug": "tokyo",
+    "sourceUrl": "https://nightstyle.jp/shop/shinjuku-one/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E6%AD%8C%E8%88%9E%E4%BC%8E%E7%94%BA1-15-12%20%E3%83%94%E3%82%A2%E3%83%83%E3%83%88%E3%83%93%E3%83%AB3F%20Girl%E2%80%99s%20bar%20One%20(%E3%83%AF%E3%83%B3)",
+    "socialUrl": null,
+    "checkedAt": "2026-11-08",
+    "sourceType": "third_party_directory",
+    "ownerConfirmed": false,
+    "photoPermission": "not_obtained",
+    "images": [],
+    "status": "published_research",
+    "researchMethod": "online_only",
+    "verification": {
+      "sourceReviewed": true,
+      "owner": false,
+      "onSite": false,
+      "phone": false,
+      "operation": false,
+      "licence": false
+    },
+    "imageMode": "ai_category_illustration",
+    "sourceReuseBasis": "Independent factual summary only, not copied photos, reviews, coupons or promotional prose.",
+    "fieldSources": {
+      "name": [
+        "https://nightstyle.jp/shop/shinjuku-one/"
+      ],
+      "address": [
+        "https://nightstyle.jp/shop/shinjuku-one/"
+      ],
+      "phone": [
+        "https://nightstyle.jp/shop/shinjuku-one/"
+      ],
+      "hours": [
+        "https://nightstyle.jp/shop/shinjuku-one/"
+      ],
+      "closed": [
+        "https://nightstyle.jp/shop/shinjuku-one/"
+      ],
+      "seats": [
+        "https://nightstyle.jp/shop/shinjuku-one/"
+      ],
+      "payment": [
+        "https://nightstyle.jp/shop/shinjuku-one/"
+      ],
+      "access": [
+        "https://nightstyle.jp/shop/shinjuku-one/"
+      ],
+      "fees": [
+        "https://nightstyle.jp/shop/shinjuku-one/",
+        "https://girlsbarone.mystrikingly.com/"
+      ],
+      "notices": [
+        "https://nightstyle.jp/shop/shinjuku-one/"
+      ]
+    },
+    "additionalSources": [
+      "https://girlsbarone.mystrikingly.com/"
+    ],
+    "hours": {
+      "ja": "第三者媒体21:00〜翌05:00",
+      "ko": "제3자 매체 21:00~다음 날 05:00",
+      "en": "Third-party listing: 21:00–05:00 next day"
+    },
+    "closed": {
+      "ja": "基本情報は日曜休、同ページ紹介文は年中無休と矛盾。確定せず店舗確認",
+      "ko": "기본 정보는 일요일 휴무, 같은 페이지 소개문은 연중무휴로 상충합니다. 확정하지 않고 매장 확인 필요",
+      "en": "Basic table says Sundays closed; prose on the same page says daily. Conflicting; confirm directly"
+    },
+    "seats": {
+      "ja": "カウンター12（第三者媒体）",
+      "ko": "카운터 12석(제3자 매체)",
+      "en": "12 counter seats per directory"
+    },
+    "payment": "クレジットカード（VISA/JCB/AMEX/Master/Diners）",
+    "access": {
+      "ja": "第三者媒体は新宿駅東口徒歩5分と案内",
+      "ko": "제3자 매체는 신주쿠역 동쪽 출구 도보 5분 안내",
+      "en": "Directory lists 5 min on foot from Shinjuku East Exit"
+    },
+    "fees": {
+      "ja": "基本料金・延長の掲載は50分3,300円、延長30分2,000円、キャストドリンク1,000円〜。ただし第三者媒体は税・サービス料20%、リンク先店舗サイトはサービス10%・TAX8%と記載し一致しない。後者の更新時期は不明。税サ・現行プラン・最終総額は確定しない。第三者媒体の延長方法は「確認有り」だが現在の運用は要確認。",
+      "ko": "기본·연장 표기는 50분 3,300엔, 연장 30분 2,000엔, 캐스트 드링크 1,000엔부터입니다. 다만 제3자 매체는 세금·서비스료 20%, 연결된 매장 사이트는 서비스료 10%·TAX 8%로 불일치하며 후자의 갱신 시기는 불명확합니다. 현재 세금·서비스료·적용 플랜·최종 총액은 확정하지 않았습니다. 매체는 연장 시 확인한다고 안내하지만 현재 운영은 확인 필요합니다.",
+      "en": "Listed base/extension amounts: ¥3,300/50 min, ¥2,000/30-minute extension; cast drinks from ¥1,000. However, the directory lists tax/service at 20%, while its linked venue site lists service 10% and TAX 8%, with unclear update date. Current charges, plan and final total are unresolved. Directory says extensions require confirmation; current practice must be checked."
+    },
+    "notices": {
+      "ja": "料金の税サと定休日の出典が矛盾。現行条件は未確認",
+      "ko": "세금·서비스료 및 휴무 안내가 출처 내·출처 간에 상충합니다. 현재 조건은 미확인입니다.",
+      "en": "Sources conflict on tax/service and closure days. Current terms are unconfirmed."
+    }
+  },
+  {
+    "id": "researched-shinjuku-massage-reraku",
+    "slug": "shinjuku-massage-reraku",
+    "cat": "massage",
+    "name": {
+      "ja": "Re.Ra.Ku 新宿店",
+      "ko": "Re.Ra.Ku 신주쿠점",
+      "en": "Re.Ra.Ku Shinjuku"
+    },
+    "address": "東京都新宿区新宿3-3-3 恩田セントラルビル6F",
+    "phone": "03-3353-8533",
+    "districtSlug": "shinjuku-3chome",
+    "prefSlug": "tokyo",
+    "sourceUrl": "https://reraku.jp/studio/shinjuku",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E6%96%B0%E5%AE%BF3-3-3%20%E6%81%A9%E7%94%B0%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%83%93%E3%83%AB6F%20Re.Ra.Ku%20%E6%96%B0%E5%AE%BF%E5%BA%97",
+    "socialUrl": null,
+    "checkedAt": "2026-11-08",
+    "sourceType": "official",
+    "ownerConfirmed": false,
+    "photoPermission": "not_obtained",
+    "images": [],
+    "status": "published_research",
+    "researchMethod": "online_only",
+    "verification": {
+      "sourceReviewed": true,
+      "owner": false,
+      "onSite": false,
+      "phone": false,
+      "operation": false,
+      "licence": false
+    },
+    "imageMode": "ai_category_illustration",
+    "sourceReuseBasis": "Independent summary of individual facts; no republished photos, reviews, rankings, coupons or promotional prose.",
+    "fieldSources": {
+      "name": [
+        "https://reraku.jp/studio/shinjuku"
+      ],
+      "address": [
+        "https://reraku.jp/studio/shinjuku"
+      ],
+      "phone": [
+        "https://reraku.jp/studio/shinjuku"
+      ],
+      "hours": [
+        "https://reraku.jp/studio/shinjuku"
+      ],
+      "payment": [
+        "https://reraku.jp/studio/shinjuku"
+      ],
+      "access": [
+        "https://reraku.jp/studio/shinjuku"
+      ],
+      "services": [
+        "https://reraku.jp/studio/shinjuku/menu"
+      ],
+      "fees": [
+        "https://reraku.jp/studio/shinjuku"
+      ],
+      "notices": [
+        "https://reraku.jp/studio/shinjuku"
+      ],
+      "bookingUrl": [
+        "https://reraku.jp/studio/shinjuku"
+      ]
+    },
+    "additionalSources": [
+      "https://reraku.jp/studio/shinjuku/menu"
+    ],
+    "seats": null,
+    "payment": "クレジットカード・QR決済・電子マネー",
+    "closed": null,
+    "bookingUrl": "https://reraku.jp/studio/shinjuku/booking",
+    "hours": {
+      "ja": "平日12:00〜22:00／土日祝11:00〜22:00、最終受付21:20",
+      "ko": "평일 12:00~22:00 / 토·일·공휴일 11:00~22:00, 최종 접수 21:20",
+      "en": "Weekdays 12:00–22:00; weekends/holidays 11:00–22:00; last reception 21:20"
+    },
+    "access": {
+      "ja": "公式案内：新宿三丁目駅C3出口前、恩田セントラルビル6階。JR新宿駅から徒歩8分",
+      "ko": "공식 안내: 신주쿠산초메역 C3 출구 앞 온다 센트럴 빌딩 6층. JR 신주쿠역 도보 8분",
+      "en": "Official guide: Onda Central Building 6F opposite Shinjuku-sanchome Exit C3; 8 min from JR Shinjuku"
+    },
+    "services": {
+      "ja": "ボディケア・ストレッチ・オイルフットケア等。医療行為・治療効果・資格は当サイト未確認",
+      "ko": "바디 케어·스트레칭·오일 풋 케어 등. 의료행위·치료 효과·자격은 본 사이트 미확인",
+      "en": "Body care, stretching and oil foot care; medical treatment, outcomes and qualifications are not verified by this site"
+    },
+    "fees": {
+      "ja": "公式トップに平日限定・初回ボディケア40分2,900円（税込）、平日限定リセット60分7,900円（税込）の条件付きメニューを掲載。通常の全コース共通価格ではなく、当サイトの割引券でもない。一般メニュー一覧で通常料金を確認できないため推定しない。予約画面で対象者・曜日・指名・着替え等の条件と最終額を確認。",
+      "ko": "공식 상단은 평일 한정·첫 방문 바디 케어 40분 2,900엔(세금 포함), 평일 한정 리셋 60분 7,900엔(세금 포함)의 조건부 메뉴를 안내합니다. 모든 코스 공통 일반 요금이나 당사 할인권이 아닙니다. 일반 메뉴 목록에서 통상 금액을 확인하지 못해 추정하지 않았습니다. 예약 화면에서 대상·요일·지명·환복 등 조건과 최종액을 확인하세요.",
+      "en": "Official landing page lists conditional offers: weekday first-visit body care 40 min ¥2,900 incl. tax, and weekday reset 60 min ¥7,900 incl. tax. These are not universal standard prices or coupons from this site. Standard amounts were not established from the menu list and are not inferred. Check eligibility, day, therapist requests, clothing and final amount in booking."
+    },
+    "notices": {
+      "ja": "掲載料金は曜日・初回条件付き。すべての来店者に適用される料金ではない",
+      "ko": "게재 금액은 요일·첫 방문 조건이 있습니다. 모든 방문자에게 적용되는 요금이 아닙니다.",
+      "en": "Listed amounts have weekday/first-visit conditions and do not apply to every visitor."
+    }
+  },
+  {
+    "id": "researched-shinjuku-massage-reraku-pepe",
+    "slug": "shinjuku-massage-reraku-pepe",
+    "cat": "massage",
+    "name": {
+      "ja": "Re.Ra.Ku 西武新宿ぺぺ店",
+      "ko": "Re.Ra.Ku 세이부신주쿠 페페점",
+      "en": "Re.Ra.Ku Seibu Shinjuku PePe"
+    },
+    "address": "東京都新宿区歌舞伎町1-30-1 西武新宿ペペ1階",
+    "phone": "03-6457-3305",
+    "districtSlug": "shinjuku-kabukicho",
+    "prefSlug": "tokyo",
+    "sourceUrl": "https://reraku.jp/studio/shinjukupepe",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E6%AD%8C%E8%88%9E%E4%BC%8E%E7%94%BA1-30-1%20%E8%A5%BF%E6%AD%A6%E6%96%B0%E5%AE%BF%E3%83%9A%E3%83%9A1%E9%9A%8E%20Re.Ra.Ku%20%E8%A5%BF%E6%AD%A6%E6%96%B0%E5%AE%BF%E3%81%BA%E3%81%BA%E5%BA%97",
+    "socialUrl": null,
+    "checkedAt": "2026-11-08",
+    "sourceType": "official",
+    "ownerConfirmed": false,
+    "photoPermission": "not_obtained",
+    "images": [],
+    "status": "published_research",
+    "researchMethod": "online_only",
+    "verification": {
+      "sourceReviewed": true,
+      "owner": false,
+      "onSite": false,
+      "phone": false,
+      "operation": false,
+      "licence": false
+    },
+    "imageMode": "ai_category_illustration",
+    "sourceReuseBasis": "Independent summary of public facts only. No republished photos, reviews, rankings, coupons or promotional prose.",
+    "fieldSources": {
+      "name": [
+        "https://reraku.jp/studio/shinjukupepe"
+      ],
+      "address": [
+        "https://reraku.jp/studio/shinjukupepe"
+      ],
+      "phone": [
+        "https://reraku.jp/studio/shinjukupepe"
+      ],
+      "hours": [
+        "https://reraku.jp/studio/shinjukupepe"
+      ],
+      "closed": [
+        "https://reraku.jp/studio/shinjukupepe"
+      ],
+      "access": [
+        "https://reraku.jp/studio/shinjukupepe"
+      ],
+      "fees": [
+        "https://reraku.jp/studio/shinjukupepe"
+      ],
+      "notices": [
+        "https://reraku.jp/studio/shinjukupepe",
+        "https://reraku.jp/studio/shinjukupepe/blog/FZkZhhK3w4"
+      ],
+      "bookingUrl": [
+        "https://reraku.jp/studio/shinjukupepe"
+      ]
+    },
+    "additionalSources": [
+      "https://reraku.jp/studio/shinjukupepe/blog/FZkZhhK3w4"
+    ],
+    "seats": null,
+    "payment": null,
+    "bookingUrl": "https://reraku.jp/studio/shinjukupepe/booking",
+    "hours": {
+      "ja": "公式店舗欄11:00〜21:00、最終受付20:20",
+      "ko": "공식 매장 안내 11:00~21:00, 최종 접수 20:20",
+      "en": "Official store listing: 11:00–21:00; last reception 20:20"
+    },
+    "closed": {
+      "ja": "1月1日休と記載。その他の臨時変更は未確認",
+      "ko": "1월 1일 휴무로 기재. 기타 임시 변경은 미확인",
+      "en": "January 1 listed closed; other temporary changes unconfirmed"
+    },
+    "access": {
+      "ja": "公式案内：西武新宿駅徒歩1分、JR新宿駅東口徒歩5分。ペペ館内ではなく館外ブリックストリート沿い1階",
+      "ko": "공식 안내: 세이부신주쿠역 도보 1분, JR 신주쿠역 동쪽 출구 도보 5분. 페페 건물 내부가 아닌 외부 브릭 스트리트 쪽 1층",
+      "en": "Official guide: 1 min from Seibu-Shinjuku Station, 5 min from JR Shinjuku East Exit. Ground floor on the exterior Brick Street, not inside the PePe mall"
+    },
+    "fees": {
+      "ja": "公式本文は平日限定・初回ボディケア40分2,900円（税込）、全日・初回30分3,520円（税込）を掲載。条件付き初回プランで通常の全コース料金ではない。ページタイトルにある別時間・金額を混ぜず、利用資格・期限・追加項目・最終額は公式予約で確認。",
+      "ko": "공식 본문은 평일 한정·첫 방문 바디 케어 40분 2,900엔(세금 포함), 전 요일·첫 방문 30분 3,520엔(세금 포함)을 안내합니다. 조건부 첫 방문 플랜이며 모든 코스의 통상 요금이 아닙니다. 페이지 제목의 다른 시간·금액을 섞지 않고 대상·기한·추가 항목·최종액은 공식 예약처에서 확인하세요.",
+      "en": "Official body text lists weekday first-visit body care 40 min ¥2,900 incl. tax, or any-day first-visit 30 min ¥3,520 incl. tax. These are conditional first-visit plans, not standard prices for all courses. Different duration/price text in the page title is not combined with these offers. Confirm eligibility, expiry, extras and final amount in official booking."
+    },
+    "notices": {
+      "ja": "入口はペペ館外のブリックストリート側。店内トイレなし。9月の過去受付枠や割引の現在利用可否は保証しない。初回・曜日・事前予約・併用条件は予約先で確認。",
+      "ko": "입구는페페건물밖브릭거리측·내부화장실없음.9월과거접수시간·할인 현재이용보장아님. 첫방문·요일·사전예약·중복조건확인.",
+      "en": "Entrance outside PePe on Brick Street;no in-store restroom. September historic slots/discounts are not guaranteed available now. Confirm first-visit,weekday,advance-booking and stacking conditions."
+    }
+  },
+  {
+    "id": "researched-shinjuku-snack-bar-hm",
+    "slug": "shinjuku-snack-bar-hm",
+    "cat": "snack",
+    "name": {
+      "ja": "カラオケスナック バーH&M 新宿店",
+      "ko": "가라오케 스낙크 바 H&M 신주쿠",
+      "en": "Karaoke Snack Bar H&M Shinjuku"
+    },
+    "address": "東京都新宿区新宿2丁目15-9",
+    "phone": "03-5315-4994",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%A9%E3%82%AA%E3%82%B1%E3%82%B9%E3%83%8A%E3%83%83%E3%82%AF%20%E3%83%90%E3%83%BCH%26M%20%E6%96%B0%E5%AE%BF%E5%BA%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E6%96%B0%E5%AE%BF2%E4%B8%81%E7%9B%AE15-9",
+    "sourceUrl": "https://www.bar-hm.com/",
+    "checkedAt": "2026-11-07",
+    "sourceType": "official",
+    "ownerConfirmed": false,
+    "photoPermission": "not_obtained",
+    "images": [],
+    "districtSlug": "shinjuku-2chome",
+    "fieldSources": {
+      "name": [
+        "https://www.bar-hm.com/"
+      ],
+      "closed": [
+        "https://www.bar-hm.com/"
+      ],
+      "notices": [
+        "https://www.bar-hm.com/"
+      ],
+      "hours": [
+        "https://www.bar-hm.com/menu/",
+        "https://www.snack-guide.com/tokyo/49787/"
+      ],
+      "fees": [
+        "https://www.bar-hm.com/menu/",
+        "https://www.snack-guide.com/tokyo/49787/"
+      ],
+      "address": [
+        "https://www.snack-guide.com/tokyo/49787/"
+      ],
+      "phone": [
+        "https://www.snack-guide.com/tokyo/49787/"
+      ],
+      "seats": [
+        "https://www.snack-guide.com/tokyo/49787/"
+      ],
+      "payment": [
+        "https://www.snack-guide.com/tokyo/49787/"
+      ],
+      "access": [
+        "https://www.snack-guide.com/tokyo/49787/"
+      ]
+    },
+    "status": "published_research",
+    "researchMethod": "online_only",
+    "verification": {
+      "sourceReviewed": true,
+      "owner": false,
+      "onSite": false,
+      "phone": false,
+      "operation": false,
+      "licence": false
+    },
+    "imageMode": "ai_category_illustration",
+    "sourceReuseBasis": "Factual summary only; no copied photos or promotional prose; no licence to the source database is implied.",
+    "socialUrl": "https://x.com/barhm7",
+    "additionalSources": [
+      "https://www.bar-hm.com/menu/",
+      "https://www.snack-guide.com/tokyo/49787/",
+      "https://www.snack-guide.com/tokyo/master/459/"
+    ],
+    "hours": {
+      "ja": "公式メニュー18:30〜翌05:00・LO04:30。第三者表は20:30開始と異なるため来店前確認。",
+      "ko": "공식 메뉴18:30~익일05:00·마지막주문04:30. 제3자표20:30시작과 달라 방문전 확인.",
+      "en": "Official menu18:30–05:00 next day,last order04:30;directory says20:30 start. Confirm before visiting."
+    },
+    "closed": {
+      "ja": "日曜・祝日。2026/10/24臨時休業の公式告知あり。",
+      "ko": "일요일·공휴일.2026/10/24임시휴무 공식공지.",
+      "en": "Sundays and public holidays;official temporary closure notice for24Oct2026."
+    },
+    "seats": {
+      "ja": "第三者表：カウンター8席",
+      "ko": "제3자표:카운터8석",
+      "en": "Directory:8 counter seats"
+    },
+    "fees": {
+      "ja": "公式：チャージ2,200円（2ドリンク・お通し付）、2時間ごと席料550円。カラオケ1名550円/2名1,100円/3名以上1,650円。第三者表は税サ込。初回特典は公式10月限定90分3,300円に対し媒体120分3,300円と差異あり。現行利用可否・税・サービス・時間を確認。",
+      "ko": "공식:차지2200엔(음료2잔·안주),2시간마다좌석료550엔. 가라오케1명550엔/2명1100엔/3명이상1650엔. 제3자표는세금·서비스포함. 첫혜택은공식10월한정90분3300엔/매체120분3300엔으로달라 현재이용·세금·서비스·시간확인.",
+      "en": "Official:¥2200 cover with2 drinks/snack;¥550 seat fee every2h. Karaoke¥550 for1,¥1100 for2,¥1650 for3+guests. Directory states tax/service included. First offer differs:official October-only90min¥3300 versus directory120min¥3300. Confirm current validity,tax,service and duration."
+    },
+    "payment": "Cards / PayPay（第三者掲載・directory）",
+    "access": {
+      "ja": "新宿三丁目駅C7から徒歩3分、新宿御苑前から5分（媒体掲載）",
+      "ko": "신주쿠산초메C7도보3분·신주쿠교엔마에도보5분(매체)",
+      "en": "Directory:3min walk from Shinjuku-sanchome C7;5min from Shinjuku-gyoemmae."
+    },
+    "notices": {
+      "ja": "会話・カラオケ系バーとしてスナック区分に掲載。10/24の休業告知や10月特典は過去資料で、現在の営業・割引を保証しない。",
+      "ko": "대화·가라오케바로스낙크분류.10/24휴무·10월혜택은과거자료이며 현재영업·할인보장아님.",
+      "en": "Listed under snack as a conversational karaoke bar. Oct24 closure and October offer are historic evidence,not current-operation or discount guarantees."
+    }
+  },
+  {
+    "id": "researched-ikebukuro-girlsbar-resort-second",
+    "slug": "ikebukuro-girlsbar-resort-second",
+    "cat": "girlsbar",
+    "name": {
+      "ja": "GIRLS DARTS BAR RESORT 2nd",
+      "ko": "걸즈 다트바 RESORT 2nd",
+      "en": "Girls Darts Bar Resort 2nd"
+    },
+    "address": "東京都豊島区西池袋1-44-6 邦正ビル6F",
+    "phone": "03-6915-2238",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=GIRLS%20DARTS%20BAR%20RESORT%202nd%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%B1%8A%E5%B3%B6%E5%8C%BA%E8%A5%BF%E6%B1%A0%E8%A2%8B1-44-6%20%E9%82%A6%E6%AD%A3%E3%83%93%E3%83%AB6F",
+    "sourceUrl": "https://resort-2nd.com/info/",
+    "checkedAt": "2026-11-07",
+    "sourceType": "official",
+    "ownerConfirmed": false,
+    "photoPermission": "not_obtained",
+    "images": [],
+    "districtSlug": "ikebukuro",
+    "fieldSources": {
+      "name": [
+        "https://resort-2nd.com/info/"
+      ],
+      "address": [
+        "https://resort-2nd.com/info/"
+      ],
+      "phone": [
+        "https://resort-2nd.com/info/"
+      ],
+      "hours": [
+        "https://resort-2nd.com/info/"
+      ],
+      "closed": [
+        "https://resort-2nd.com/info/"
+      ],
+      "seats": [
+        "https://resort-2nd.com/info/"
+      ],
+      "access": [
+        "https://resort-2nd.com/info/"
+      ],
+      "fees": [
+        "https://resort-2nd.com/system/"
+      ],
+      "notices": [
+        "https://resort-2nd.com/news/2026%E5%B9%B411%E6%9C%88%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC/"
+      ]
+    },
+    "status": "published_research",
+    "researchMethod": "online_only",
+    "verification": {
+      "sourceReviewed": true,
+      "owner": false,
+      "onSite": false,
+      "phone": false,
+      "operation": false,
+      "licence": false
+    },
+    "imageMode": "ai_category_illustration",
+    "sourceReuseBasis": "Factual summary only; no copied photos or promotional prose; no licence to the source database is implied.",
+    "additionalSources": [
+      "https://resort-2nd.com/system/",
+      "https://resort-2nd.com/news/2026%E5%B9%B411%E6%9C%88%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC/"
+    ],
+    "hours": {
+      "ja": "19:00〜LAST。日祝・災害時は早仕舞いの場合あり。",
+      "ko": "19:00~LAST.일·공휴일·재해시조기마감가능.",
+      "en": "19:00–LAST;may close early on Sundays,holidays or during disasters."
+    },
+    "closed": {
+      "ja": "年中無休と掲載、当日確認",
+      "ko": "연중무휴로기재·당일확인",
+      "en": "Listed as open year-round;confirm on the day."
+    },
+    "seats": {
+      "ja": "6Fカウンター22席・7F13席",
+      "ko": "6층카운터22석·7층13석",
+      "en": "22 counter seats on6F;13 on7F"
+    },
+    "access": {
+      "ja": "池袋北口徒歩1〜2分。6F入店、7Fへは店内らせん階段。",
+      "ko": "이케부쿠로북쪽출구도보1~2분.6층입장·7층은내부나선계단.",
+      "en": "1–2min walk from Ikebukuro north exit;enter6F,internal spiral stairs to7F."
+    },
+    "fees": {
+      "ja": "飲み放題60分3,000円、延長30分2,000円・自動延長。延長飲み放題オプション30分1,000円。サービス10%＋税10%別。初回30分無料の適用と最終総額・延長オプションを事前確認。",
+      "ko": "무제한60분3000엔·자동연장30분2000엔.연장무제한옵션30분1000엔.서비스10%+세금10%별도.첫30분무료조건·최종액·연장옵션을사전확인.",
+      "en": "All-you-can-drink60min¥3000;automatic extension30min¥2000. Extended drinks option30min¥1000. Service10%plus tax10%extra. Confirm first30min free terms,extension option and final bill."
+    },
+    "notices": {
+      "ja": "2026/10/28掲載の11月公式画像本文：11/13〜14 REN誕生日、11/20〜22メイドデー、11/27〜29ナース企画。変更・利用条件は公式確認。許可番号の自己申告は独立確認していません。",
+      "ko": "2026/10/28게시11월공식행사이미지:11/13~14 REN생일·11/20~22메이드데이·11/27~29간호사기획.변경·조건공식확인.자체표시허가번호는독립검증안함.",
+      "en": "Official November image posted28Oct2026:REN birthday13–14Nov,maid days20–22Nov,nurse event27–29Nov. Confirm changes/terms officially. Self-published licence number not independently verified."
+    }
+  },
+  {
+    "id": "researched-ikebukuro-massage-reraku-sunshine",
+    "slug": "ikebukuro-massage-reraku-sunshine",
+    "cat": "massage",
+    "name": {
+      "ja": "Re.Ra.Ku 池袋サンシャインシティアルパ店",
+      "ko": "Re.Ra.Ku 이케부쿠로 선샤인시티 알파점",
+      "en": "Re.Ra.Ku Ikebukuro Sunshine City Alpa"
+    },
+    "address": "東京都豊島区東池袋3-1-1 サンシャインシティ専門店街アルパ2F",
+    "phone": "03-6812-1550",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Re.Ra.Ku%20%E6%B1%A0%E8%A2%8B%E3%82%B5%E3%83%B3%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%86%E3%82%A3%E3%82%A2%E3%83%AB%E3%83%91%E5%BA%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%B1%8A%E5%B3%B6%E5%8C%BA%E6%9D%B1%E6%B1%A0%E8%A2%8B3-1-1%20%E3%82%B5%E3%83%B3%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%86%E3%82%A3%E5%B0%82%E9%96%80%E5%BA%97%E8%A1%97%E3%82%A2%E3%83%AB%E3%83%912F",
+    "sourceUrl": "https://reraku.jp/studio/ikebukuroscalpa",
+    "checkedAt": "2026-11-07",
+    "sourceType": "official",
+    "ownerConfirmed": false,
+    "photoPermission": "not_obtained",
+    "images": [],
+    "districtSlug": "ikebukuro",
+    "fieldSources": {
+      "name": [
+        "https://reraku.jp/studio/ikebukuroscalpa"
+      ],
+      "address": [
+        "https://reraku.jp/studio/ikebukuroscalpa"
+      ],
+      "phone": [
+        "https://reraku.jp/studio/ikebukuroscalpa"
+      ],
+      "hours": [
+        "https://reraku.jp/studio/ikebukuroscalpa"
+      ],
+      "closed": [
+        "https://reraku.jp/studio/ikebukuroscalpa"
+      ],
+      "fees": [
+        "https://reraku.jp/studio/ikebukuroscalpa"
+      ],
+      "bookingUrl": [
+        "https://reraku.jp/studio/ikebukuroscalpa"
+      ],
+      "access": [
+        "https://reraku.jp/studio/ikebukuroscalpa"
+      ],
+      "notices": [
+        "https://reraku.jp/studio/ikebukuroscalpa/blog/dZ2rmuokIm"
+      ]
+    },
+    "status": "published_research",
+    "researchMethod": "online_only",
+    "verification": {
+      "sourceReviewed": true,
+      "owner": false,
+      "onSite": false,
+      "phone": false,
+      "operation": false,
+      "licence": false
+    },
+    "imageMode": "ai_category_illustration",
+    "sourceReuseBasis": "Factual summary only; no copied photos or promotional prose; no licence to the source database is implied.",
+    "bookingUrl": "https://reraku.jp/studio/ikebukuroscalpa/booking",
+    "additionalSources": [
+      "https://reraku.jp/studio/ikebukuroscalpa/blog/dZ2rmuokIm"
+    ],
+    "closed": {
+      "ja": "施設・年末年始等の休業は予約先で確認",
+      "ko": "시설·연말연시휴무는예약처확인",
+      "en": "Confirm facility/year-end closures with booking provider."
+    },
+    "hours": {
+      "ja": "10:00〜20:00、最短30分コース最終19:20。施設営業時間に準じる。",
+      "ko": "10:00~20:00·최단30분코스최종19:20.시설시간준수.",
+      "en": "10:00–20:00,last intake19:20 for shortest30min course;subject to facility hours."
+    },
+    "fees": {
+      "ja": "掲載：全日初回ボディケア30分3,520円（税込）、通常4,400円表示。60分料金はこの資料から補完しません。初回適用範囲・指名・着替え・併用条件を予約先で確認。",
+      "ko": "전일첫방문바디케어30분3520엔(세금포함),정상4400엔표시.60분가격추정안함.첫방문범위·지명·환복·중복조건예약처확인.",
+      "en": "Listed all-day first-visit body care30min¥3520 incl.tax,regular displayed¥4400. No inferred60min rate. Confirm first-visit eligibility,staff choice,clothing and discount conditions."
+    },
+    "access": {
+      "ja": "池袋35番出口徒歩約8分、東池袋6・7番出口地下通路約3分。アルパ2Fスターバックス横。",
+      "ko": "이케부쿠로35번출구약8분·히가시이케부쿠로6·7번지하통로약3분.알파2층스타벅스옆.",
+      "en": "About8min from Ikebukuro exit35 or3min via underground passage from Higashi-ikebukuro exits6/7;Alpa2F beside Starbucks."
+    },
+    "notices": {
+      "ja": "10/26付・10/27題名の本文に担当者と10:45〜20:00接客受付、15時まで各1名案内。過去枠であり現在空き情報ではありません。",
+      "ko": "10/26게시·10/27제목본문담당자와10:45~20:00접수·15시까지각1명안내.과거시간이며현재빈자리아님.",
+      "en": "Oct26 post titledOct27 names branch staff and10:45–20:00 intake,one guest at a time before15:00. Historical slots,not current availability."
+    }
+  },
+  {
+    "id": "researched-takadanobaba-massage-reraku",
+    "slug": "takadanobaba-massage-reraku",
+    "cat": "massage",
+    "name": {
+      "ja": "Re.Ra.Ku 高田馬場店",
+      "ko": "Re.Ra.Ku 다카다노바바점",
+      "en": "Re.Ra.Ku Takadanobaba"
+    },
+    "address": "東京都新宿区高田馬場3-3-9 山下ビル2F",
+    "phone": "03-6279-1720",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Re.Ra.Ku%20%E9%AB%98%E7%94%B0%E9%A6%AC%E5%A0%B4%E5%BA%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E9%AB%98%E7%94%B0%E9%A6%AC%E5%A0%B43-3-9%20%E5%B1%B1%E4%B8%8B%E3%83%93%E3%83%AB2F",
+    "sourceUrl": "https://reraku.jp/studio/takadanobaba",
+    "checkedAt": "2026-11-07",
+    "sourceType": "official",
+    "ownerConfirmed": false,
+    "photoPermission": "not_obtained",
+    "images": [],
+    "districtSlug": "takadanobaba",
+    "fieldSources": {
+      "name": [
+        "https://reraku.jp/studio/takadanobaba"
+      ],
+      "address": [
+        "https://reraku.jp/studio/takadanobaba"
+      ],
+      "phone": [
+        "https://reraku.jp/studio/takadanobaba"
+      ],
+      "hours": [
+        "https://reraku.jp/studio/takadanobaba"
+      ],
+      "closed": [
+        "https://reraku.jp/studio/takadanobaba"
+      ],
+      "fees": [
+        "https://reraku.jp/studio/takadanobaba"
+      ],
+      "bookingUrl": [
+        "https://reraku.jp/studio/takadanobaba"
+      ],
+      "access": [
+        "https://reraku.jp/studio/takadanobaba"
+      ],
+      "notices": [
+        "https://reraku.jp/studio/takadanobaba/blog/WXXzSTCsuF"
+      ]
+    },
+    "status": "published_research",
+    "researchMethod": "online_only",
+    "verification": {
+      "sourceReviewed": true,
+      "owner": false,
+      "onSite": false,
+      "phone": false,
+      "operation": false,
+      "licence": false
+    },
+    "imageMode": "ai_category_illustration",
+    "sourceReuseBasis": "Factual summary only; no copied photos or promotional prose; no licence to the source database is implied.",
+    "bookingUrl": "https://reraku.jp/studio/takadanobaba/booking",
+    "additionalSources": [
+      "https://reraku.jp/studio/takadanobaba/blog/WXXzSTCsuF"
+    ],
+    "closed": {
+      "ja": "年末年始",
+      "ko": "연말연시",
+      "en": "Year-end/New Year"
+    },
+    "hours": {
+      "ja": "平日12:00〜21:00・最終20:30。土日祝11:00〜20:00・最終19:30。",
+      "ko": "평일12:00~21:00·최종20:30.주말공휴일11:00~20:00·최종19:30.",
+      "en": "Weekdays12:00–21:00,last20:30;weekends/holidays11:00–20:00,last19:30."
+    },
+    "fees": {
+      "ja": "掲載：平日限定初回40分2,900円、全日初回40分5,200円、通常表示5,720円（各税込）。対象の初回範囲・曜日・他割引併用・指名や着替えは予約先で確認。60分へ換算しません。",
+      "ko": "평일첫40분2900엔·전일첫40분5200엔·정상표시5720엔(각세금포함).첫방문범위·요일·중복할인·지명·환복은예약처확인.60분환산안함.",
+      "en": "Listed weekday first40min¥2900,all-day first40min¥5200,regular shown¥5720,all incl.tax. Confirm first-visit eligibility,day restrictions,stacking,staff choice and clothing. No conversion to60min."
+    },
+    "access": {
+      "ja": "高田馬場駅早稲田口徒歩3分。西友隣、セブンイレブン前のビル2F。",
+      "ko": "다카다노바바와세다출구도보3분.세이유옆·세븐일레븐맞은편2층.",
+      "en": "3min from Takadanobaba Waseda exit;2F beside Seiyu,opposite Seven-Eleven."
+    },
+    "notices": {
+      "ja": "10/22付本文末に当日12:00〜20:30の受付・予約導線・当店住所あり。一般的な健康記事部分だけを根拠にしていません。過去枠は現在空き情報ではありません。",
+      "ko": "10/22본문말미당일12:00~20:30접수·예약링크·해당점주소확보.일반건강글만으로선정하지않음.과거시간은현재빈자리아님.",
+      "en": "Oct22 body ends with that-day12:00–20:30 intake,booking links and branch address;not selected for generic health content alone. Historical slots are not live availability."
+    }
+  },
+  {
+    "id": "researched-kunitachi-snack-suimon",
+    "slug": "kunitachi-snack-suimon",
+    "cat": "snack",
+    "name": {
+      "ja": "スナック水紋",
+      "ko": "스낙크 스이몬(水紋)",
+      "en": "Snack Suimon"
+    },
+    "address": "東京都国立市中1-1-37 nonoich kunitachi 2F",
+    "phone": "042-505-5516",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%83%8A%E3%83%83%E3%82%AF%E6%B0%B4%E7%B4%8B%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%9B%BD%E7%AB%8B%E5%B8%82%E4%B8%AD1-1-37%20nonoich%20kunitachi%202F",
+    "sourceUrl": "https://www.instagram.com/snack_suimon/",
+    "checkedAt": "2026-11-07",
+    "sourceType": "official",
+    "ownerConfirmed": false,
+    "photoPermission": "not_obtained",
+    "images": [],
+    "districtSlug": "kunitachi",
+    "fieldSources": {
+      "name": [
+        "https://www.instagram.com/snack_suimon/",
+        "https://prtimes.jp/main/html/rd/p/000000009.000120047.html"
+      ],
+      "fees": [
+        "https://www.instagram.com/snack_suimon/",
+        "https://prtimes.jp/main/html/rd/p/000000009.000120047.html"
+      ],
+      "phone": [
+        "https://www.instagram.com/p/DfEbIhZRFf3/"
+      ],
+      "hours": [
+        "https://www.instagram.com/p/DfEbIhZRFf3/"
+      ],
+      "closed": [
+        "https://www.instagram.com/p/DfEbIhZRFf3/"
+      ],
+      "notices": [
+        "https://www.instagram.com/p/DfEbIhZRFf3/"
+      ],
+      "address": [
+        "https://prtimes.jp/main/html/rd/p/000000009.000120047.html"
+      ],
+      "seats": [
+        "https://prtimes.jp/main/html/rd/p/000000009.000120047.html"
+      ],
+      "access": [
+        "https://prtimes.jp/main/html/rd/p/000000009.000120047.html"
+      ]
+    },
+    "status": "published_research",
+    "researchMethod": "online_only",
+    "verification": {
+      "sourceReviewed": true,
+      "owner": false,
+      "onSite": false,
+      "phone": false,
+      "operation": false,
+      "licence": false
+    },
+    "imageMode": "ai_category_illustration",
+    "sourceReuseBasis": "Factual summary only; no copied photos or promotional prose; no licence to the source database is implied.",
+    "socialUrl": "https://www.instagram.com/snack_suimon/",
+    "additionalSources": [
+      "https://www.instagram.com/p/DfEbIhZRFf3/",
+      "https://prtimes.jp/main/html/rd/p/000000009.000120047.html"
+    ],
+    "hours": {
+      "ja": "水〜金19:00〜24:00、土日16:00〜24:00。11/3・11/23は16:00営業予定と10/29告知。祝日の一般化はしません。",
+      "ko": "수~금19~24시·토일16~24시.10/29공지상11/3·11/23은16시영업예정.모든공휴일로일반화안함.",
+      "en": "Wed–Fri19:00–24:00;Sat/Sun16:00–24:00. Oct29 post schedules16:00 opening forNov3/23;not generalized to all holidays."
+    },
+    "closed": {
+      "ja": "通常月火休。11/3・11/23は例外営業予定の告知あり。",
+      "ko": "통상월화휴무.11/3·11/23예외영업예정공지.",
+      "en": "Normally Mon/Tue closed;announced exceptions planned forNov3/23."
+    },
+    "seats": {
+      "ja": "運営発表12席",
+      "ko": "운영사발표12석",
+      "en": "Operator release:12 seats"
+    },
+    "fees": {
+      "ja": "チャージ1,500円、ドリンク800円〜、カラオケ200円と公式SNS掲載。運営発表90分セット3,500円（ノンアル3,000円）。セットにチャージ・飲料が含まれる範囲、延長・税・サービスは資料だけで確定せず来店前確認。",
+      "ko": "공식SNS차지1500엔·음료800엔부터·가라오케200엔.운영발표90분세트3500엔(논알코올3000엔).세트내차지·음료포함범위·연장·세금·서비스는확정못해방문전확인.",
+      "en": "Official social:¥1500 cover,drinks from¥800,karaoke¥200. Operator release:90min set¥3500(non-alcohol¥3000). Confirm whether cover/drinks are included,extensions,tax and service;not settled by these sources."
+    },
+    "access": {
+      "ja": "JR国立駅南口から徒歩約3分、nonoich kunitachi2F。水中（谷保）とは別店舗。",
+      "ko": "JR구니타치남쪽출구약3분·nonoich kunitachi2층.야호의스이추와별도매장.",
+      "en": "About3min walk from JR Kunitachi south exit,nonoich kunitachi2F;distinct from Suichu in Yaho."
+    },
+    "notices": {
+      "ja": "10/29公式本文に開業後11月営業・席予約・当日19時以降の予約電話あり。11/7・14・21・28の20〜22時は水中との無料トゥクトゥク運行予定、11/28コラボ企画。天候・変更・条件は公式確認。",
+      "ko": "10/29공식본문개업후11월영업·좌석예약·당일19시이후예약전화안내.11/7·14·21·28의20~22시스이추와무료툭툭예정·11/28협업기획.날씨·변경·조건공식확인.",
+      "en": "Oct29 official body announces post-opening November operation,seat reservations and after19:00 same-day phone booking. Planned free tuk-tuk20:00–22:00 onNov7/14/21/28 to Suichu;Nov28 collaboration. Confirm weather,changes and terms."
+    }
+  },
+  {
+    "id": "researched-ikebukuro-girlsbar-vivid-cafe",
+    "slug": "ikebukuro-girlsbar-vivid-cafe",
+    "cat": "girlsbar",
+    "name": {
+      "ja": "vivid cafe",
+      "ko": "vivid cafe(비비드 카페)",
+      "en": "vivid cafe"
+    },
+    "address": "東京都豊島区西池袋1-42-8 秋福ビルB1",
+    "phone": "03-5979-5061",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=vivid%20cafe%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%B1%8A%E5%B3%B6%E5%8C%BA%E8%A5%BF%E6%B1%A0%E8%A2%8B1-42-8%20%E7%A7%8B%E7%A6%8F%E3%83%93%E3%83%ABB1",
+    "sourceUrl": "https://www.bar-vivid-cafe.com/",
+    "checkedAt": "2026-11-07",
+    "sourceType": "official",
+    "ownerConfirmed": false,
+    "photoPermission": "not_obtained",
+    "images": [],
+    "districtSlug": "ikebukuro",
+    "fieldSources": {
+      "name": [
+        "https://www.bar-vivid-cafe.com/system/"
+      ],
+      "address": [
+        "https://www.bar-vivid-cafe.com/system/"
+      ],
+      "phone": [
+        "https://www.bar-vivid-cafe.com/system/"
+      ],
+      "hours": [
+        "https://www.bar-vivid-cafe.com/system/"
+      ],
+      "seats": [
+        "https://www.bar-vivid-cafe.com/system/"
+      ],
+      "fees": [
+        "https://www.bar-vivid-cafe.com/system/"
+      ],
+      "notices": [
+        "https://www.bar-vivid-cafe.com/news/792562/"
+      ]
+    },
+    "status": "published_research",
+    "researchMethod": "online_only",
+    "verification": {
+      "sourceReviewed": true,
+      "owner": false,
+      "onSite": false,
+      "phone": false,
+      "operation": false,
+      "licence": false
+    },
+    "imageMode": "ai_category_illustration",
+    "sourceReuseBasis": "Factual summary only; no copied photos or promotional prose; no licence to the source database is implied.",
+    "additionalSources": [
+      "https://www.bar-vivid-cafe.com/news/792562/",
+      "https://www.bar-vivid-cafe.com/system/"
+    ],
+    "hours": {
+      "ja": "19:00〜翌05:00（料金ページ）",
+      "ko": "19:00~익일05:00(요금페이지)",
+      "en": "19:00–05:00 next day per system page"
+    },
+    "seats": {
+      "ja": "カウンター13席",
+      "ko": "카운터13석",
+      "en": "13 counter seats"
+    },
+    "fees": {
+      "ja": "通常40分3,300円、延長20分1,650円、自動延長。LINE会員はOPEN〜24:00が60分2,200円、24:00〜LASTが50分2,200円。税込・サービス0%。初回クーポンは50分2,200円、LINE登録で+10分、画面提示・他割引不可・混雑時除外あり。カラオケは料金表1曲220円、イベント説明200円と差があり確認。",
+      "ko": "통상40분3300엔·자동연장20분1650엔.LINE회원OPEN~24시는60분2200엔·24시~LAST는50분2200엔.세금포함·서비스0%.첫쿠폰50분2200엔·LINE등록+10분·화면제시·중복불가·혼잡시제외.가라오케요금표220엔/행사본문200엔차이확인.",
+      "en": "Standard40min¥3300;automatic20min extension¥1650. LINE members:60min¥2200 before24:00,50min¥2200 after24:00. Tax included,service0%. First coupon50min¥2200,+10min with LINE;show coupon,no stacking,busy-time exclusions. Karaoke system¥220/song differs from event text¥200;confirm."
+    },
+    "notices": {
+      "ja": "2026/9/2店舗別告知にLINE会員限定生ビール飲み放題、初回も登録で対象と明記。11/11の将来日付の記事は今回の採用根拠に使いません。割引の現在利用可否は来店前確認。",
+      "ko": "2026/9/2해당점공지LINE회원생맥주무제한·첫방문도등록하면대상명시.11/11미래날짜글은이번채택근거로미사용.현재혜택은방문전확인.",
+      "en": "Sep2,2026 venue notice explicitly offers draft-beer drinks to LINE members including registered first-time guests. Future-datedNov11 material is not used for this selection. Confirm current benefit availability."
+    }
+  },
+  {
+    "id": "researched-ikejiriohashi-massage-reraku",
+    "slug": "ikejiriohashi-massage-reraku",
+    "cat": "massage",
+    "name": {
+      "ja": "Re.Ra.Ku 池尻大橋店",
+      "ko": "Re.Ra.Ku 이케지리오하시점",
+      "en": "Re.Ra.Ku Ikejiri-Ohashi"
+    },
+    "address": "東京都目黒区大橋2-16-28 パインヒルズ1F",
+    "phone": "03-6407-8318",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Re.Ra.Ku%20%E6%B1%A0%E5%B0%BB%E5%A4%A7%E6%A9%8B%E5%BA%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E5%A4%A7%E6%A9%8B2-16-28%20%E3%83%91%E3%82%A4%E3%83%B3%E3%83%92%E3%83%AB%E3%82%BA1F",
+    "sourceUrl": "https://reraku.jp/studio/ikejiriohashi",
+    "checkedAt": "2026-11-07",
+    "sourceType": "official",
+    "ownerConfirmed": false,
+    "photoPermission": "not_obtained",
+    "images": [],
+    "districtSlug": "ikejiriohashi",
+    "fieldSources": {
+      "name": [
+        "https://reraku.jp/studio/ikejiriohashi"
+      ],
+      "address": [
+        "https://reraku.jp/studio/ikejiriohashi"
+      ],
+      "phone": [
+        "https://reraku.jp/studio/ikejiriohashi"
+      ],
+      "hours": [
+        "https://reraku.jp/studio/ikejiriohashi"
+      ],
+      "access": [
+        "https://reraku.jp/studio/ikejiriohashi"
+      ],
+      "bookingUrl": [
+        "https://reraku.jp/studio/ikejiriohashi"
+      ],
+      "fees": [
+        "https://reraku.jp/studio/ikejiriohashi/blog/TnzqhmYJdK",
+        "https://reraku.jp/studio/ikejiriohashi/blog/6QhX35DiPK"
+      ],
+      "notices": [
+        "https://reraku.jp/studio/ikejiriohashi/blog/TnzqhmYJdK"
+      ]
+    },
+    "status": "published_research",
+    "researchMethod": "online_only",
+    "verification": {
+      "sourceReviewed": true,
+      "owner": false,
+      "onSite": false,
+      "phone": false,
+      "operation": false,
+      "licence": false
+    },
+    "imageMode": "ai_category_illustration",
+    "sourceReuseBasis": "Factual summary only; no copied photos or promotional prose; no licence to the source database is implied.",
+    "bookingUrl": "https://reraku.jp/studio/ikejiriohashi/booking",
+    "additionalSources": [
+      "https://reraku.jp/studio/ikejiriohashi/blog/TnzqhmYJdK",
+      "https://reraku.jp/studio/ikejiriohashi/menu",
+      "https://reraku.jp/studio/ikejiriohashi/blog/6QhX35DiPK"
+    ],
+    "hours": {
+      "ja": "平日12:00〜22:00、土日祝10:00〜22:00。平日10〜12時は完全事前予約。1名ずつ案内。最終受付は予約先で確認。",
+      "ko": "평일12~22시·주말공휴일10~22시.평일10~12시는완전사전예약.1명씩안내.최종접수예약처확인.",
+      "en": "Weekdays12:00–22:00;weekends/holidays10:00–22:00. Weekday10:00–12:00 by advance reservation only;one guest at a time. Confirm last intake."
+    },
+    "fees": {
+      "ja": "11/4告知：女性向けあったかボディ60分+ほっとヘッドスパ20分計80分9,600円（税込・通常表示12,320円）。通常ドライヘッド予約から変更は10分+300円/20分+500円。一般60分料金ではありません。女性プランは別告知でオンライン予約限定・他特典不可。終了日・現行価格は予約時確認。",
+      "ko": "11/4공지여성온열바디60분+헤드20분총80분9600엔(세금포함·정상표시12320엔).일반드라이헤드예약변경10분+300엔/20분+500엔.일반60분가격아님.여성플랜별도공지온라인한정·중복불가.종료일·현가격예약시확인.",
+      "en": "Nov4 offer:women’s warm body60min+hot head20min,total80min¥9600 incl.tax(regular shown¥12320). Upgrade booked standard dry head:+¥300 for10min/+¥500 for20min. Not a general60min rate. Separate women’s-plan notice requires online booking,no stacking. Confirm end date/current price."
+    },
+    "access": {
+      "ja": "池尻大橋駅北口徒歩3分。246号沿い渋谷方面約250m。渋谷駅徒歩18分の別エリア店舗。",
+      "ko": "이케지리오하시북쪽출구도보3분·246호선시부야방향약250m.시부야역도보18분인별도지역.",
+      "en": "3min from Ikejiri-Ohashi north exit,about250m along Route246 toward Shibuya;not a Shibuya-station venue(18min walk)."
+    },
+    "notices": {
+      "ja": "2026/11/4本文で当店冬季メニュー開始・限定価格・女性向け80分セット・予約方法を確認。医療効果や現在空きは保証しません。",
+      "ko": "2026/11/4해당점본문겨울메뉴시작·한정가격·여성80분세트·예약방법확보.의료효과·현재빈자리보장안함.",
+      "en": "Nov4,2026 branch body announces winter service launch,branch price,women’s80min set and booking method. No medical effects or live availability guaranteed."
+    }
+  }
+]

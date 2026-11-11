@@ -1,0 +1,9 @@
+import {SOURCE_REVIEWS} from '../data/source-reviews.mjs';
+import {esc} from './layout.mjs';
+const L=(l,ja,ko,en)=>({ja,ko,en})[l]||ja;
+export function sourceReviewPanel(lang,s){
+ const r=SOURCE_REVIEWS[s.slug];
+ const recent=r&&['dated_event_announcement','dated_care_intake','dated_hours_notice','dated_service_offer'].includes(r.evidenceClass);
+ const label=recent?L(lang,'日付付き店舗資料あり（現在営業の直接確認ではありません）','날짜 있는 매장 자료 확보 · 현재 영업 직접 확인 아님','Dated venue material found — not direct current-operation verification'):r?L(lang,'最近の店舗営業本文は未確認','최근 매장 영업 본문 미확보','Recent venue operational body not established'):L(lang,'今回の再調査は未実施','이번 재조사 미실시','Not re-reviewed in this batch');
+ return `<section class="source-review-panel card mt24" data-source-review="${r?esc(r.evidenceClass):'not_reviewed'}" style="border:1px solid #d9ccb8;background:#fffaf0;padding:24px;border-radius:16px;overflow-wrap:anywhere"><h2>${esc(L(lang,'出典と営業資料の確認状況','출처·운영 자료 확인 상태','Source & operational-evidence status'))}</h2><p><strong>${esc(label)}</strong></p>${r?`<p>${esc(r.summary[lang]||r.summary.ja)}</p><p class="small">${esc(L(lang,'本文検討日','본문 검토일','Body review date'))}: ${r.reviewedAt}${r.activityDate?' · '+esc(L(lang,'資料日付','자료 날짜','Material date'))+': '+r.activityDate:''}</p><ul>${r.sourceUrls.map(u=>`<li><a href="${esc(u)}" target="_blank" rel="noopener noreferrer">${esc(new URL(u).hostname+new URL(u).pathname)} ↗</a></li>`).join('')}</ul>`:`<p>${esc(L(lang,'保存版の掲載情報です。ページへのアクセスやデータ更新日だけでは、現在営業中とは判断できません。','저장본에 포함된 정보입니다. 페이지 접속이나 데이터 갱신일만으로 현재 영업을 판단하지 않습니다.','This is a repository listing. Page availability or a modification date alone does not establish current operation.'))}</p>`}<p class="small">${esc(L(lang,'電話・現地・許可確認なし。予約枠・イベント・割引は現在の利用可否を保証しません。','전화·현장·허가 확인 미실시. 예약 시간·행사·할인은 현재 이용 가능 보장이 아닙니다.','No phone, on-site or licensing verification. Published slots, events and discounts do not guarantee current availability.'))}</p></section>`;
+}

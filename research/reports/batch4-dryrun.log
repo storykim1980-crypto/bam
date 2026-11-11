@@ -1,0 +1,18 @@
+
+> bam-night@23.0.0 research:import
+> node tools/research-pipeline.mjs import research/inbox/2026-11-08-batch4.json --dry-run
+
+{
+  "dryRun": true,
+  "incoming": 4,
+  "total": 22,
+  "warnings": [
+    "[9] name: no field-level source; record-level source only",
+    "[9] phone: no field-level source; record-level source only",
+    "[9] hours: no field-level source; record-level source only",
+    "[9] closed: no field-level source; record-level source only",
+    "[9] seats: no field-level source; record-level source only",
+    "[9] fees: no field-level source; record-level source only",
+    "[9] payment: no field-level source; record-level source only"
+  ]
+}
